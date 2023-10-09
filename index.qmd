@@ -7,4 +7,4 @@ format: html
 
 ## Home Page
 
-Lab [personnel]("~/docs/people.html/")
+Lab [personnel](docs/people.html/)
