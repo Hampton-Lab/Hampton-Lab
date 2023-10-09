@@ -9,3 +9,4 @@ format: html
 
 Lab [personnel](docs/people.html)
 
+Hi!
