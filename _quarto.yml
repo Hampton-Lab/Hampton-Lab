@@ -7,8 +7,8 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - docs/people.qmd
-      - docs/projects.qmd
+      - people.qmd
+      - projects.qmd
 
 format:
   html:
