@@ -5,6 +5,6 @@ format: html
 
 *This is where projects go, such as:*
 
-> Under Ice Ecology
+- Under Ice Ecology
 
-> Rotifer Microbiome
+- Rotifer Microbiome

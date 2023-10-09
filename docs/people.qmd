@@ -1,22 +1,17 @@
 ---
 title: "Who We Are"
 format: html
+
 ---
 
-## Lab Personnel:
+| Stephanie Hampton
+|        _Deputy Director Biosphere Sciences & Engineering_
 
-Stephanie Hampton
-  
-> _Deputy Director Biosphere Sciences & Engineering_
+| Ceara Talbot
+|        _Postdoctoral fellow_
 
-Ceara Talbot
-  
-> _Postdoctoral fellow_
+| Ryan McClure
+|        _Postdoctoral fellow_
 
-Ryan McClure
-  
-> _Postdoctoral fellow_
-
-Braden Charles DeMattei
-  
-> _Lab & Data Manager_
+| Braden Charles DeMattei
+|        _Lab & Data Manager_
