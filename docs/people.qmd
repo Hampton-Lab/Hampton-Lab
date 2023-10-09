@@ -5,10 +5,18 @@ format: html
 
 ## Lab Personnel:
 
->Stephanie
+Stephanie Hampton
+  
+> _Deputy Director Biosphere Sciences & Engineering_
 
->Braden
+Ceara Talbot
+  
+> _Postdoctoral fellow_
 
->Ceara
+Ryan McClure
+  
+> _Postdoctoral fellow_
 
->Ryan
+Braden Charles DeMattei
+  
+> _Lab & Data Manager_
