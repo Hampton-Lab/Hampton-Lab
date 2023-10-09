@@ -1,5 +1,19 @@
 [
   {
+    "objectID": "docs/projects.html",
+    "href": "docs/projects.html",
+    "title": "Our Current Projects",
+    "section": "",
+    "text": "This is where projects go, such as:\n\nUnder Ice Ecology\nRotifer Microbiome"
+  },
+  {
+    "objectID": "docs/people.html",
+    "href": "docs/people.html",
+    "title": "Who We Are",
+    "section": "",
+    "text": "Stephanie Hampton\n       Deputy Director Biosphere Sciences & Engineering\nCeara Talbot\n       Postdoctoral fellow\nRyan McClure\n       Postdoctoral fellow\nBraden Charles DeMattei\n       Lab & Data Manager"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Hampton Lab",
@@ -12,26 +26,5 @@
     "title": "Hampton Lab",
     "section": "About",
     "text": "About\nWe investigate the complex ecological dynamics underlying spatial patterns and temporal dynamics across and within aquatic ecosystems. We frequently employ data-intensive approaches to synthesize diverse existing data across the globe. As a result, our projects have often created an engaging, interdisciplinary, and international network of collaborators. We are strong proponents of open science, and strive to adhere to its principles. We value collaboration, rigorous science, constructive criticism, and collegiality."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site"
-  },
-  {
-    "objectID": "docs/people.html",
-    "href": "docs/people.html",
-    "title": "Who We Are",
-    "section": "",
-    "text": "Stephanie Hampton\n       Deputy Director Biosphere Sciences & Engineering\nCeara Talbot\n       Postdoctoral fellow\nRyan McClure\n       Postdoctoral fellow\nBraden Charles DeMattei\n       Lab & Data Manager"
-  },
-  {
-    "objectID": "docs/projects.html",
-    "href": "docs/projects.html",
-    "title": "Our Current Projects",
-    "section": "",
-    "text": "This is where projects go, such as:\n\nUnder Ice Ecology\nRotifer Microbiome"
   }
 ]
