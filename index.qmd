@@ -1,12 +1,13 @@
 ---
-title: "index"
+title: "Hampton Lab"
 format: html
 ---
+ > _Forgive the dust as we set up our website!_ 
+ 
+## About
 
-# Hampton Lab
-
-## Home Page
+We investigate the complex ecological dynamics underlying spatial patterns and temporal dynamics across and within aquatic ecosystems. We frequently employ data-intensive approaches to synthesize diverse existing data across the globe. As a result, our projects have often created an engaging, interdisciplinary, and international network of collaborators. We are strong proponents of [open science](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1890/ES14-00402.1), and strive to adhere to its principles. We value collaboration, rigorous science, constructive criticism, and collegiality.
 
 Lab [personnel](docs/people.html)
 
-Hi!
+Our current [projects](docs/projects.html)
