@@ -1,7 +1,7 @@
 project:
   type: website
   output-dir: "/Users/bcdemattei/Desktop/Projects/Hampton-Lab/docs"
-
+  
 website:
   title: "Hampton Lab"
   navbar:
@@ -10,7 +10,10 @@ website:
         text: Home
       - people.qmd
       - projects.qmd
-
+  page-footer: 
+    left: |
+      [![](images/CISlogo.jpg)](https://www.carnegiescience.edu)     
+    
 format:
   html:
     theme: cosmo
