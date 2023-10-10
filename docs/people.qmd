@@ -1,17 +1,18 @@
 ---
 title: "Who We Are"
 format: html
-
 ---
 
 | Stephanie Hampton
-|        _Deputy Director Biosphere Sciences & Engineering_
+|        *Deputy Director Biosphere Sciences & Engineering*
 
 | Ceara Talbot
-|        _Postdoctoral fellow_
+|        *Postdoctoral fellow*
 
 | Ryan McClure
-|        _Postdoctoral fellow_
+|        *Postdoctoral fellow*
 
 | Braden Charles DeMattei
-|        _Lab & Data Manager_
+|        *Lab & Data Manager*
+
+[![Carnegie Institution of Science](images/CISlogo.png)](https://www.carnegiescience.edu)
