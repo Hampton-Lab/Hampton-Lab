@@ -10,15 +10,24 @@ website:
         text: Home
       - people.qmd
       - projects.qmd
+    
   page-footer: 
     left: |
-      [![](images/CISlogo.png){fig-alt="Carnegie Science" width=100px}](https://www.carnegiescience.edu)     
+      [![](images/CISlogo.png){fig-alt="Carnegie Science" width=100px}](https://www.carnegiescience.edu)
+    right:
+      - icon: twitter
+        href: https://twitter.com/se_hampton
+      - icon: github
+        href: https://github.com/Hampton-Lab
+        aria-label: Hampton Lab GitHub
+    center: "Background Image of Lake Baikal Credit: [Andrei Chuganov](https://commons.wikimedia.org/wiki/File:Baikal_140629_0179.jpg#metadata)"
     
 format:
   html:
     theme: cosmo
     css: styles.css
     toc: true
+    linkcolor: white
 
 
 

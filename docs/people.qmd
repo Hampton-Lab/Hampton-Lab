@@ -2,7 +2,7 @@
 title: "Who We Are"
 format: html
 ---
-| [![](images/tempimg.jpg){fig-alt="Ryan McClure" width=150px}](shampton.qmd)
+| [![](images/tempimg.jpg){fig-alt="Stephanie Hampton" width=150px}](shampton.qmd)
 |         Stephanie Hampton
 |               *Deputy Director Biosphere Sciences & Engineering*
 

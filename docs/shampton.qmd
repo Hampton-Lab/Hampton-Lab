@@ -4,7 +4,7 @@ subtitle: "Deputy Director Biosphere Sciences & Engineering"
 format: html
 ---
 
-[![](images/tempimg.jpg){fig-alt="Stephanie Hampton" width=500px}]
+![](images/tempimg.jpg){fig-alt="Stephanie Hampton" width=500px}
 
 ## Bio
 
@@ -14,9 +14,9 @@ format: html
 | 
 | She came to WSU in 2014 as Director of the Center for Environmental Research, Education and Outreach (CEREO) and Professor in School of the Environment. In that time, she also has been chair of the National Science Foundation’s Advisory Committee for the Biology Directorate, and an editor for Limnology & Oceanography and Ecosystems. She was previously Deputy Director of the National Center for Ecological Analysis and Synthesis at U.C. Santa Barbara.
 |
-| From 2018 to 2022, she was based in Washington DC as the Division Director of the Division of Environmental Biology at the National Science Foundation.
+| From 2018 to 2022, she was based in Washington DC as the [Division Director of the Division of Environmental Biology](https://www.nsf.gov/div/index.jsp?div=DEB) at the National Science Foundation.
 |
-| As of August 2022, she has been at Carnegie Institution for Science as the deputy director of Biosphere Sciences & Engineering in Pasadena CA.
+| As of August 2022, [she has been at Carnegie Institution for Science](https://carnegiescience.edu/news/stephanie-hampton-named-deputy-director-biosphere-sciences-and-engineering-division-0) as the deputy director of Biosphere Sciences & Engineering in Pasadena CA.
 
 [List of Publications](seh_pubs.qmd)
 
