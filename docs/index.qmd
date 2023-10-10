@@ -2,7 +2,6 @@
 title: "Hampton Lab"
 subtitle: "Carnegie Institution of Science @ Caltech"
 format: html
-  css: styles.css
 ---
 
 
