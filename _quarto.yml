@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: "/Users/bcdemattei/Desktop/Projects/Hampton-Lab"
 
 website:
   title: "Hampton Lab"
