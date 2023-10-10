@@ -2,16 +2,19 @@
 title: "Who We Are"
 format: html
 ---
+| [![](images/tempimg.jpg){fig-alt="Ryan McClure" width=150px}](shampton.qmd)
+|         Stephanie Hampton
+|               *Deputy Director Biosphere Sciences & Engineering*
 
-| Stephanie Hampton
-|        *Deputy Director Biosphere Sciences & Engineering*
+| [![](images/tempimg.jpg){fig-alt="Ceara Talbot" width=150px}](ctalbot.qmd)
+|         Ceara Talbot
+|               *Postdoctoral Fellow*
 
-| Ceara Talbot
-|        *Postdoctoral fellow*
+| [![](images/tempimg.jpg){fig-alt="Ryan McClure" width=150px}](rmcclure.qmd)
+|          Ryan McClure
+|               *Postdoctoral Fellow*
 
-| Ryan McClure
-|        *Postdoctoral fellow*
-
-| Braden Charles DeMattei
-|        *Lab & Data Manager*
+| [![](images/tempimg.jpg){fig-alt="Braden Charles DeMattei" width=150px}](bcdemattei.qmd)
+|          Braden Charles DeMattei
+|               *Lab & Data Manager*
 

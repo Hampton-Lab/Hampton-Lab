@@ -12,7 +12,7 @@ website:
       - projects.qmd
   page-footer: 
     left: |
-      [![](images/CISlogo.png){fig-alt="Carnegie Science" width=65px}](https://www.carnegiescience.edu)     
+      [![](images/CISlogo.png){fig-alt="Carnegie Science" width=100px}](https://www.carnegiescience.edu)     
     
 format:
   html:
