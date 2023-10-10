@@ -15,4 +15,3 @@ format: html
 | Braden Charles DeMattei
 |        *Lab & Data Manager*
 
-[![Carnegie Institution of Science](images/CISlogo.png)](https://www.carnegiescience.edu)
