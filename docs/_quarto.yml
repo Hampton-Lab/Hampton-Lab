@@ -4,7 +4,9 @@ project:
   
 website:
   title: "Hampton Lab"
+  favicon: images/roti_logo.png
   navbar:
+    logo: images/roti_logo.png
     left:
       - href: index.qmd
         text: Home
@@ -21,7 +23,9 @@ website:
       - icon: github
         href: https://github.com/Hampton-Lab
         aria-label: Hampton Lab GitHub
-    center: "Background Image of Lake Baikal Credit: [Andrei Chuganov](https://commons.wikimedia.org/wiki/File:Baikal_140629_0179.jpg#metadata)"
+    center: |
+              Background Image of Lake Baikal Credit: [Andrei Chuganov](https://commons.wikimedia.org/wiki/File:Baikal_140629_0179.jpg#metadata)
+              | _Keratella serrulata_ Logo Credit: [Thomas G](https://commons.m.wikimedia.org/wiki/File:Keratella_serrulata_253892773.png)
     
 format:
   html:
