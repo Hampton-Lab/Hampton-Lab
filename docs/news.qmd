@@ -8,4 +8,5 @@ listing:
     sort-ui: true
     filter-ui: true
     image-placeholder: images/tempimg.jpg
+    image-height: 150px
 ---

@@ -5,5 +5,12 @@
       "/posts/mypost.html",
       "/posts/mypost2.html"
     ]
+  },
+  {
+    "listing": "/index.html",
+    "items": [
+      "/posts/mypost2.html",
+      "/posts/mypost.html"
+    ]
   }
 ]

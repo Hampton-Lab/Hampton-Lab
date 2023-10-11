@@ -88,7 +88,7 @@
     "href": "news.html",
     "title": "Lab News",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n  \n\n\n\n\nmypost\n\n\n\n\n\n\n\n\n\n\n\n\nOct 10, 2023\n\n\nBC DeMattei\n\n\n\n\n\n\n  \n\n\n\n\nmypost2\n\n\n\n\n\n\n\n\n\n\n\n\nBC DeMattei\n\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n  \n\n\n\n\nmypost\n\n\n\n\n\n\n\n\n\n\n\n\nOct 10, 2023\n\n\nBC DeMattei\n\n\n\n\n\n\n  \n\n\n\n\nmypost2\n\n\n\n\n\n\n\n\n\n\n\n\nOct 11, 2023\n\n\nBC DeMattei\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/mypost2.html",
@@ -96,5 +96,12 @@
     "title": "mypost2",
     "section": "",
     "text": "This is my second post!"
+  },
+  {
+    "objectID": "index.html#recent-news",
+    "href": "index.html#recent-news",
+    "title": "Hampton Lab",
+    "section": "Recent News",
+    "text": "Recent News"
   }
 ]
