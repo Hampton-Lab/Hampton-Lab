@@ -1,20 +1,27 @@
 ---
 title: "Who We Are"
 format: html
+fig-cap-location: bottom
+fig-align: left
 ---
-| [![](images/tempimg.jpg){fig-alt="Stephanie Hampton" width=150px}](shampton.qmd)
-|         Stephanie Hampton
-|               *Deputy Director Biosphere Sciences & Engineering*
 
-| [![](images/tempimg.jpg){fig-alt="Ceara Talbot" width=150px}](ctalbot.qmd)
-|         Ceara Talbot
-|               *Postdoctoral Fellow*
+::: {layout=[2,1]}
 
-| [![](images/tempimg.jpg){fig-alt="Ryan McClure" width=150px}](rmcclure.qmd)
-|          Ryan McClure
-|               *Postdoctoral Fellow*
+| [![](images/tempimg.jpg){fig-alt="Stephanie Hampton" width="150px"}](shampton.qmd)
+| Stephanie Hampton 
+|      *Deputy Director* 
+|          *Biosphere Sciences & Engineering*
 
-| [![](images/tempimg.jpg){fig-alt="Braden Charles DeMattei" width=150px}](bcdemattei.qmd)
-|          Braden Charles DeMattei
-|               *Lab & Data Manager*
+| [![](images/tempimg.jpg){fig-alt="Ceara Talbot" width="150px"}](ctalbot.qmd)
+| Ceara Talbot 
+|      *Postdoctoral Fellow*
 
+| [![](images/tempimg.jpg){fig-alt="Ryan McClure" width="150px"}](rmcclure.qmd)
+| Ryan McClure 
+|     *Postdoctoral Fellow*
+
+| [![](images/tempimg.jpg){fig-alt="Braden Charles DeMattei" width="150px"}](bcdemattei.qmd)
+| Braden Charles DeMattei 
+|     *Lab & Data Manager*
+
+:::
