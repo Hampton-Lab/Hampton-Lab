@@ -8,6 +8,7 @@ format: html
 | Sharma, S., S.E. Hampton, and I.A. Kimirei. In press. Inland Waters: The Future of Limnology is Interdisciplinary, Collaborative, Inclusive, and Global. Chapter 31 in Wetzel’s Limnology, 2nd edition. 
 |
 | Brousil, M.R., et al. 2023. Improving ecological data science with workflow management software. Methods in Ecology & Evolution.
+|
 | Hampton, S.E., S. Sharma, M. Brousil and A. Filazzola. 2022. Winter and summer storms modify chlorophyll relationships with nutrients in seasonally ice-covered lakes. Ecosphere 13(11): e4272.
 |
 | Meyer, M. F.; Ozersky, T.; Woo, K. H.; Shchapov, K.; Galloway, A. W. E.; Schram, J. B.; Rosi, E. J.; Snow, D. D.; Timofeyev, M. A.; Karnaukhov, D. Yu.; Brousil, M. R.; Hampton, S. E. 2022. Effects of spatially heterogeneous lakeside development on nearshore biotic communities in a large, deep, oligotrophic lake (Lake Baikal, Siberia). Limnology and Oceanography 67: 2649–2664.
