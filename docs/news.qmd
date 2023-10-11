@@ -7,5 +7,5 @@ listing:
     type: default
     sort-ui: true
     filter-ui: true
-    
+    image-placeholder: images/tempimg.jpg
 ---

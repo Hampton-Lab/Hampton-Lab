@@ -39,5 +39,22 @@ body {
     font-weight: bold;
 }
 
+h3.no-anchor.listing-title {
+    color: white;
+}
 
+.listing-subtitle {
+  color: white;
+}
 
+.listing-date {
+    color: white;
+}
+
+.listing-author{
+  color: white;
+}
+
+.listing-description{
+  color: white;
+}
