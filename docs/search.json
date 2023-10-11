@@ -1,59 +1,10 @@
 [
   {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Our Current Projects",
+    "objectID": "posts/mypost2.html",
+    "href": "posts/mypost2.html",
+    "title": "mypost2",
     "section": "",
-    "text": "This is where projects go, such as:\n\nUnder Ice Ecology\nRotifer Microbiome"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Hampton Lab",
-    "section": "",
-    "text": "Forgive the dust as we set up our website!"
-  },
-  {
-    "objectID": "index.html#about",
-    "href": "index.html#about",
-    "title": "Hampton Lab",
-    "section": "About",
-    "text": "About\nWe investigate the complex ecological dynamics underlying spatial patterns and temporal dynamics across and within aquatic ecosystems. We frequently employ data-intensive approaches to synthesize diverse existing data across the globe. As a result, our projects have often created an engaging, interdisciplinary, and international network of collaborators. We are strong proponents of open science, and strive to adhere to its principles. We value collaboration, rigorous science, constructive criticism, and collegiality."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site"
-  },
-  {
-    "objectID": "people.html",
-    "href": "people.html",
-    "title": "Who We Are",
-    "section": "",
-    "text": "Stephanie Hampton\n              Deputy Director Biosphere Sciences & Engineering\n\n        Ceara Talbot\n              Postdoctoral Fellow\n\n         Ryan McClure\n              Postdoctoral Fellow\n\n         Braden Charles DeMattei\n              Lab & Data Manager"
-  },
-  {
-    "objectID": "bcdemattei.html",
-    "href": "bcdemattei.html",
-    "title": "Braden Charles DeMattei",
-    "section": "",
-    "text": "Hello, I’m BC DeMattei!"
-  },
-  {
-    "objectID": "shampton.html",
-    "href": "shampton.html",
-    "title": "Stephanie Hampton",
-    "section": "",
-    "text": "["
-  },
-  {
-    "objectID": "shampton.html#contact",
-    "href": "shampton.html#contact",
-    "title": "Stephanie Hampton",
-    "section": "Contact",
-    "text": "Contact\nEmail: shampton@carnegiescience.edu\nTwitter: @se_hampton"
+    "text": "This is my second post!"
   },
   {
     "objectID": "shampton.html#bio",
@@ -61,6 +12,13 @@
     "title": "Stephanie Hampton",
     "section": "Bio",
     "text": "Bio\nStephanie Hampton’s research has progressed from basic investigations in aquatic ecology using statistical analysis of large-scale databases, to broader applications of empirical evidence in science and society. Her core expertise is in aquatic science, statistical analysis, and environmental informatics. Her research includes analyzing long-term ecological data collected from lakes as globally diverse as Lake Baikal in Siberia and Lake Washington in Seattle. Together with collaborators, she has shown how lakes respond to municipal management practices such as sewage diversion. She has also helped demonstrate the effects of climate change on plankton—the basic building blocks of aquatic food webs – with a recent emphasis on the implications of winter ice loss across the globe.\n\nLeadership positions in research institutions have given her an opportunity to engage in a variety of large interdisciplinary collaborations at the interface of informatics and environmental science, including those that focus on the social and technical dimensions of scientific collaboration. On every level, Hampton strives to promote data sharing, open science, and wider adoption of cutting-edge informatics for more effective and transparent environmental research. She is a leader in efforts to improve computational literacy and supports access to a robust cyberinfrastructure for everyone engaged in the environmental sciences.\n\nShe came to WSU in 2014 as Director of the Center for Environmental Research, Education and Outreach (CEREO) and Professor in School of the Environment. In that time, she also has been chair of the National Science Foundation’s Advisory Committee for the Biology Directorate, and an editor for Limnology & Oceanography and Ecosystems. She was previously Deputy Director of the National Center for Ecological Analysis and Synthesis at U.C. Santa Barbara.\n\nFrom 2018 to 2022, she was based in Washington DC as the Division Director of the Division of Environmental Biology at the National Science Foundation.\n\nAs of August 2022, she has been at Carnegie Institution for Science as the deputy director of Biosphere Sciences & Engineering in Pasadena CA.\nList of Publications\nFull CV (.doc)"
+  },
+  {
+    "objectID": "shampton.html#contact",
+    "href": "shampton.html#contact",
+    "title": "Stephanie Hampton",
+    "section": "Contact",
+    "text": "Contact\nEmail: shampton@carnegiescience.edu\nTwitter: @se_hampton"
   },
   {
     "objectID": "seh_pubs.html",
@@ -91,11 +49,25 @@
     "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n  \n\n\n\n\nmypost\n\n\n\n\n\n\n\n\n\n\n\n\nOct 10, 2023\n\n\nBC DeMattei\n\n\n\n\n\n\n  \n\n\n\n\nmypost2\n\n\n\n\n\n\n\n\n\n\n\n\nOct 11, 2023\n\n\nBC DeMattei\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "posts/mypost2.html",
-    "href": "posts/mypost2.html",
-    "title": "mypost2",
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Our Current Projects",
     "section": "",
-    "text": "This is my second post!"
+    "text": "This is where projects go, such as:\n\nUnder Ice Ecology\nRotifer Microbiome"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Hampton Lab",
+    "section": "",
+    "text": "Forgive the dust as we set up our website!"
+  },
+  {
+    "objectID": "index.html#about",
+    "href": "index.html#about",
+    "title": "Hampton Lab",
+    "section": "About",
+    "text": "About\nWe investigate the complex ecological dynamics underlying spatial patterns and temporal dynamics across and within aquatic ecosystems. We frequently employ data-intensive approaches to synthesize diverse existing data across the globe. As a result, our projects have often created an engaging, interdisciplinary, and international network of collaborators. We are strong proponents of open science, and strive to adhere to its principles. We value collaboration, rigorous science, constructive criticism, and collegiality."
   },
   {
     "objectID": "index.html#recent-news",
@@ -103,5 +75,26 @@
     "title": "Hampton Lab",
     "section": "Recent News",
     "text": "Recent News"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "bcdemattei.html",
+    "href": "bcdemattei.html",
+    "title": "Braden Charles DeMattei",
+    "section": "",
+    "text": "Hello, I’m BC DeMattei!"
+  },
+  {
+    "objectID": "people.html",
+    "href": "people.html",
+    "title": "Who We Are",
+    "section": "",
+    "text": "Stephanie Hampton\n              Deputy Director Biosphere Sciences & Engineering\n\n        Ceara Talbot\n              Postdoctoral Fellow\n\n         Ryan McClure\n              Postdoctoral Fellow\n\n         Braden Charles DeMattei\n              Lab & Data Manager"
   }
 ]
