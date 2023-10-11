@@ -1,0 +1,11 @@
+---
+title: "Lab News"
+format: html
+listing: 
+    contents: posts
+    sort: date
+    type: default
+    sort-ui: true
+    filter-ui: true
+    
+---
