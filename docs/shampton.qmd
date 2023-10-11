@@ -20,7 +20,7 @@ format: html
 
 [List of Publications](seh_pubs.qmd)
 
-[Full CV (.doc)](notqmddocs/HamptonCV_20220105.doc)
+[Full CV (.doc)](notqmddocs/HamptonCV_20230821.doc)
 
 ## Contact
 Email: [shampton@carnegiescience.edu](mailto:shampton@carnegiescience.edu)
