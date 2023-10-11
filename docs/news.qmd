@@ -3,7 +3,7 @@ title: "Lab News"
 format: html
 listing: 
     contents: posts
-    sort: date
+    sort: "date desc"
     type: default
     sort-ui: true
     filter-ui: true
