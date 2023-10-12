@@ -7,6 +7,48 @@
     "text": "This is my second post!"
   },
   {
+    "objectID": "ctalbot.html",
+    "href": "ctalbot.html",
+    "title": "Ceara Talbot",
+    "section": "",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam placerat volutpat sapien, eu interdum elit suscipit ut. Praesent dolor tellus, ultrices et odio sit amet, iaculis porta ligula. Quisque rutrum auctor dui, ac iaculis magna eleifend quis. Vestibulum a euismod nibh, a varius lorem. Pellentesque mattis lacus ac convallis feugiat. Nullam consequat dapibus quam non dignissim. In quis erat diam. Morbi fringilla, nisi at malesuada imperdiet, nisi nunc posuere tellus, at interdum turpis justo non nisl. Integer a commodo sem, id commodo urna. Donec a enim ac ante mattis scelerisque."
+  },
+  {
+    "objectID": "ctalbot.html#bio",
+    "href": "ctalbot.html#bio",
+    "title": "Ceara Talbot",
+    "section": "",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam placerat volutpat sapien, eu interdum elit suscipit ut. Praesent dolor tellus, ultrices et odio sit amet, iaculis porta ligula. Quisque rutrum auctor dui, ac iaculis magna eleifend quis. Vestibulum a euismod nibh, a varius lorem. Pellentesque mattis lacus ac convallis feugiat. Nullam consequat dapibus quam non dignissim. In quis erat diam. Morbi fringilla, nisi at malesuada imperdiet, nisi nunc posuere tellus, at interdum turpis justo non nisl. Integer a commodo sem, id commodo urna. Donec a enim ac ante mattis scelerisque."
+  },
+  {
+    "objectID": "ctalbot.html#contact",
+    "href": "ctalbot.html#contact",
+    "title": "Ceara Talbot",
+    "section": "Contact",
+    "text": "Contact\nEmail: ctalbot@carnegiescience.edu"
+  },
+  {
+    "objectID": "rmcclure.html",
+    "href": "rmcclure.html",
+    "title": "Ryan McClure",
+    "section": "",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam placerat volutpat sapien, eu interdum elit suscipit ut. Praesent dolor tellus, ultrices et odio sit amet, iaculis porta ligula. Quisque rutrum auctor dui, ac iaculis magna eleifend quis. Vestibulum a euismod nibh, a varius lorem. Pellentesque mattis lacus ac convallis feugiat. Nullam consequat dapibus quam non dignissim. In quis erat diam. Morbi fringilla, nisi at malesuada imperdiet, nisi nunc posuere tellus, at interdum turpis justo non nisl. Integer a commodo sem, id commodo urna. Donec a enim ac ante mattis scelerisque."
+  },
+  {
+    "objectID": "rmcclure.html#bio",
+    "href": "rmcclure.html#bio",
+    "title": "Ryan McClure",
+    "section": "",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam placerat volutpat sapien, eu interdum elit suscipit ut. Praesent dolor tellus, ultrices et odio sit amet, iaculis porta ligula. Quisque rutrum auctor dui, ac iaculis magna eleifend quis. Vestibulum a euismod nibh, a varius lorem. Pellentesque mattis lacus ac convallis feugiat. Nullam consequat dapibus quam non dignissim. In quis erat diam. Morbi fringilla, nisi at malesuada imperdiet, nisi nunc posuere tellus, at interdum turpis justo non nisl. Integer a commodo sem, id commodo urna. Donec a enim ac ante mattis scelerisque."
+  },
+  {
+    "objectID": "rmcclure.html#contact",
+    "href": "rmcclure.html#contact",
+    "title": "Ryan McClure",
+    "section": "Contact",
+    "text": "Contact\nEmail: rmcclure@carnegiescience.edu"
+  },
+  {
     "objectID": "shampton.html#bio",
     "href": "shampton.html#bio",
     "title": "Stephanie Hampton",
@@ -105,18 +147,25 @@
     "text": "Recent News"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site"
-  },
-  {
     "objectID": "bcdemattei.html",
     "href": "bcdemattei.html",
     "title": "Braden Charles DeMattei",
     "section": "",
-    "text": "Hello, I’m BC DeMattei!"
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam placerat volutpat sapien, eu interdum elit suscipit ut. Praesent dolor tellus, ultrices et odio sit amet, iaculis porta ligula. Quisque rutrum auctor dui, ac iaculis magna eleifend quis. Vestibulum a euismod nibh, a varius lorem. Pellentesque mattis lacus ac convallis feugiat. Nullam consequat dapibus quam non dignissim. In quis erat diam. Morbi fringilla, nisi at malesuada imperdiet, nisi nunc posuere tellus, at interdum turpis justo non nisl. Integer a commodo sem, id commodo urna. Donec a enim ac ante mattis scelerisque."
+  },
+  {
+    "objectID": "bcdemattei.html#bio",
+    "href": "bcdemattei.html#bio",
+    "title": "Braden Charles DeMattei",
+    "section": "",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam placerat volutpat sapien, eu interdum elit suscipit ut. Praesent dolor tellus, ultrices et odio sit amet, iaculis porta ligula. Quisque rutrum auctor dui, ac iaculis magna eleifend quis. Vestibulum a euismod nibh, a varius lorem. Pellentesque mattis lacus ac convallis feugiat. Nullam consequat dapibus quam non dignissim. In quis erat diam. Morbi fringilla, nisi at malesuada imperdiet, nisi nunc posuere tellus, at interdum turpis justo non nisl. Integer a commodo sem, id commodo urna. Donec a enim ac ante mattis scelerisque."
+  },
+  {
+    "objectID": "bcdemattei.html#contact",
+    "href": "bcdemattei.html#contact",
+    "title": "Braden Charles DeMattei",
+    "section": "Contact",
+    "text": "Contact\nEmail: bdemattei@carnegiescience.edu"
   },
   {
     "objectID": "people.html",

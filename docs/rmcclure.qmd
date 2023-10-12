@@ -3,3 +3,11 @@ title: "Ryan McClure"
 subtitle: "Postdoctoral Fellow"
 format: html
 ---
+
+## Bio
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam placerat volutpat sapien, eu interdum elit suscipit ut. Praesent dolor tellus, ultrices et odio sit amet, iaculis porta ligula. Quisque rutrum auctor dui, ac iaculis magna eleifend quis. Vestibulum a euismod nibh, a varius lorem. Pellentesque mattis lacus ac convallis feugiat. Nullam consequat dapibus quam non dignissim. In quis erat diam. Morbi fringilla, nisi at malesuada imperdiet, nisi nunc posuere tellus, at interdum turpis justo non nisl. Integer a commodo sem, id commodo urna. Donec a enim ac ante mattis scelerisque.
+
+## Contact
+
+Email: [rmcclure@carnegiescience.edu](mailto:rmcclure@carnegiescience.edu)
