@@ -5,23 +5,47 @@ fig-cap-location: bottom
 fig-align: left
 ---
 
-::: {layout=[2,1]}
+## Current Members
+::: {layout=[2,1] valigh="bottom"}
 
-| [![](images/tempimg.jpg){fig-alt="Stephanie Hampton" width="150px"}](shampton.qmd)
+| [![](images/Hampton_6.jpg){fig-alt="Stephanie Hampton" width="250px" height="200px"}](shampton.qmd)
 | Stephanie Hampton 
 |      *Deputy Director* 
 |          *Biosphere Sciences & Engineering*
 
-| [![](images/tempimg.jpg){fig-alt="Ceara Talbot" width="150px"}](ctalbot.qmd)
+| [![](images/ct_hs.png){fig-alt="Ceara Talbot" width="200px" height="200px"}](ctalbot.qmd)
 | Ceara Talbot 
 |      *Postdoctoral Fellow*
 
-| [![](images/tempimg.jpg){fig-alt="Ryan McClure" width="150px"}](rmcclure.qmd)
+| [![](images/rm_hs.jpg){fig-alt="Ryan McClure" width="250px" height="200px"}](rmcclure.qmd)
 | Ryan McClure 
 |     *Postdoctoral Fellow*
 
-| [![](images/tempimg.jpg){fig-alt="Braden Charles DeMattei" width="150px"}](bcdemattei.qmd)
+| [![](images/bcd_hs3.jpg){fig-alt="Braden Charles DeMattei" width="200px" height="200px"}](bcdemattei.qmd)
 | Braden Charles DeMattei 
 |     *Lab & Data Manager*
 
 :::
+
+## Alumni
+
+### Postdocs
+- Elizabeth Wolkovich (2009-2010; Associate Professor at University of British Columbia)
+
+- Lindsay Scheef (2009–2011; Research Scientist at University of Texas) 
+
+- Carly Strasser (2010-2013; Director of Academic Partnerships and Data Strategy at Fred Hutch)
+
+- Stacy Rebich Hespanha (2011-2014; Research Associate at National Center for Ecological Analysis and Synthesis)
+
+- Derek Gray (2012-2014; Associate Professor at Wilfried Laurier University)
+
+- Aaron Galloway (2014-2015; Associate Professor at Oregon Institute for Marine Biology)
+
+- Steve Powers (2015-2019; Assistant Professor at Baylor University)
+
+### Graduate Students
+- M.S. Advisor for Elizabeth Rosenberger (née Seminet-Reneau; 2004-2006; Research Scientist for US Forest Service).
+
+- Ph.D. Advisor for Michael Meyer (2015-2021; USGS Mendenhall Postdoctoral Fellow).
+

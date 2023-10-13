@@ -4,11 +4,17 @@ subtitle: "Postdoctoral Fellow"
 format: html
 ---
 
-![](images/tempimg.jpg){fig-alt="Ceara Talbot" width=500px}
+![](images/ct_hs.png){fig-alt="Ceara Talbot" width=500px}
 
 ## Bio
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam placerat volutpat sapien, eu interdum elit suscipit ut. Praesent dolor tellus, ultrices et odio sit amet, iaculis porta ligula. Quisque rutrum auctor dui, ac iaculis magna eleifend quis. Vestibulum a euismod nibh, a varius lorem. Pellentesque mattis lacus ac convallis feugiat. Nullam consequat dapibus quam non dignissim. In quis erat diam. Morbi fringilla, nisi at malesuada imperdiet, nisi nunc posuere tellus, at interdum turpis justo non nisl. Integer a commodo sem, id commodo urna. Donec a enim ac ante mattis scelerisque.
+Ceara is an ecosystem ecologist, who is broadly interested in quantifying and predicting the relative contributions of terrestrial and aquatic ecosystems to land-atmosphere carbon (C) exchange. She primarily focuses on the role of lateral C transport in linking terrestrial and aquatic C and water cycling, with an emphasis on cross-ecosystem synthesis. She uses a combination of process model and data-based approaches. Her research spans spatiotemporal scales from days to decades and watersheds to continents.
+ 
+In 2023, Ceara received a Ph.D. in Biological Sciences from the University of Notre Dame, where she developed a coupled terrestrial and aquatic C and hydrology process model, leveraged cross-ecosystem observations of C and water, and created a conceptual framework of the drivers and processes involved in LCT production in terrestrial ecosystems. In 2018, she received a M.Sc. in Environmental and Life Sciences from Trent University and her thesis research focused on the impact of flooding disturbances on aquatic biogeochemistry and ecosystem services. As an undergraduate researcher at Saint Anselm College and as an intern at Woods Hole Research Center (now Woodwell Research Center), she applied lab, field, and remote sensing approaches to answer a variety of questions related to ecological and societal consequences of climate change.  
+
+[Ceara's Google Scholar](https://scholar.google.com/citations?user=TWUp5sUAAAAJ&hl=en&oi=sra)
+
+[Ceara's GitHub](https://github.com/cearatalbot)
 
 ## Contact
 

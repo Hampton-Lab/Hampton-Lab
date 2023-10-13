@@ -4,19 +4,17 @@ subtitle: "Deputy Director Biosphere Sciences & Engineering"
 format: html
 ---
 
-![](images/tempimg.jpg){fig-alt="Stephanie Hampton" width=500px}
+![](images/Hampton_6.jpg){fig-alt="Stephanie Hampton" width=500px}
 
 ## Bio
 
-| Stephanie Hampton’s research has progressed from basic investigations in aquatic ecology using statistical analysis of large-scale databases, to broader applications of empirical evidence in science and society. Her core expertise is in aquatic science, statistical analysis, and environmental informatics. Her research includes analyzing long-term ecological data collected from lakes as globally diverse as Lake Baikal in Siberia and Lake Washington in Seattle. Together with collaborators, she has shown how lakes respond to municipal management practices such as sewage diversion. She has also helped demonstrate the effects of climate change on plankton—the basic building blocks of aquatic food webs – with a recent emphasis on the implications of winter ice loss across the globe.
-| 
-| Leadership positions in research institutions have given her an opportunity to engage in a variety of large interdisciplinary collaborations at the interface of informatics and environmental science, including those that focus on the social and technical dimensions of scientific collaboration. On every level, Hampton strives to promote data sharing, open science, and wider adoption of cutting-edge informatics for more effective and transparent environmental research. She is a leader in efforts to improve computational literacy and supports access to a robust cyberinfrastructure for everyone engaged in the environmental sciences.
-| 
-| She came to WSU in 2014 as Director of the Center for Environmental Research, Education and Outreach (CEREO) and Professor in School of the Environment. In that time, she also has been chair of the National Science Foundation’s Advisory Committee for the Biology Directorate, and an editor for Limnology & Oceanography and Ecosystems. She was previously Deputy Director of the National Center for Ecological Analysis and Synthesis at U.C. Santa Barbara.
-|
-| From 2018 to 2022, she was based in Washington DC as the [Division Director of the Division of Environmental Biology](https://www.nsf.gov/div/index.jsp?div=DEB) at the National Science Foundation.
-|
-| As of August 2022, [she has been at Carnegie Institution for Science](https://carnegiescience.edu/news/stephanie-hampton-named-deputy-director-biosphere-sciences-and-engineering-division-0) as the deputy director of Biosphere Sciences & Engineering in Pasadena CA.
+Stephanie Hampton’s research has progressed from basic investigations in aquatic ecology using statistical analysis of large-scale databases, to broader applications of empirical evidence in science and society. Her core expertise is in aquatic science, statistical analysis, and environmental informatics. Her research includes analyzing long-term ecological data collected from lakes as globally diverse as Lake Baikal in Siberia and Lake Washington in Seattle. Together with collaborators, she has shown how lakes respond to municipal management practices such as sewage diversion. She has also helped demonstrate the effects of climate change on plankton—the basic building blocks of aquatic food webs – with a recent emphasis on the implications of winter ice loss across the globe.
+
+Leadership positions in research institutions have given her an opportunity to engage in a variety of large interdisciplinary collaborations at the interface of informatics and environmental science, including those that focus on the social and technical dimensions of scientific collaboration. On every level, Hampton strives to promote data sharing, open science, and wider adoption of cutting-edge informatics for more effective and transparent environmental research. She is a leader in efforts to improve computational literacy and supports access to a robust cyberinfrastructure for everyone engaged in the environmental sciences.
+
+Hampton joined Carnegie as Deputy Director of Carnegie’s newly launched Division of Biosphere Sciences and Engineering at the end of July 2022. She arrived from the National Science Foundation, where she was the director of the Division of Environmental Biology for 4 years. Previously she was also a professor and the former director of an interdisciplinary environmental research center at Washington State University, and deputy director of the National Center for Ecological Analysis and Synthesis at UC Santa Barbara for 9 years. She is the 2023 President-elect of the Ecological Society of America.
+
+She received her Ph.D. in ecology and evolution from Dartmouth College, a master’s degree in biology from University of Nevada Las Vegas, and a bachelor’s degree in biology from the University of Kansas.
 
 [List of Publications](seh_pubs.qmd)
 

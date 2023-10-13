@@ -4,7 +4,7 @@ subtitle: "Lab & Data Manager"
 format: html
 ---
 
-![](images/tempimg.jpg){fig-alt="Braden Charles DeMattei" width=500px}
+![](images/bcd_hs3.jpg){fig-alt="Braden Charles DeMattei" width=500px}
 
 ## Bio
 

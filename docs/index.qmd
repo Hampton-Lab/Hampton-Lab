@@ -1,6 +1,6 @@
 ---
 title: "Hampton Lab"
-subtitle: "Carnegie Institution of Science @ Caltech"
+subtitle: "Carnegie Institution of Science | Pasadena, California"
 format: html
 listing: 
     contents: posts

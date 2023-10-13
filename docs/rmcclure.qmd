@@ -4,11 +4,13 @@ subtitle: "Postdoctoral Fellow"
 format: html
 ---
 
-![](images/tempimg.jpg){fig-alt="Ryan McClure" width=500px}
+![](images/rm_hs.jpg){fig-alt="Ryan McClure" width=500px}
 
 ## Bio
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam placerat volutpat sapien, eu interdum elit suscipit ut. Praesent dolor tellus, ultrices et odio sit amet, iaculis porta ligula. Quisque rutrum auctor dui, ac iaculis magna eleifend quis. Vestibulum a euismod nibh, a varius lorem. Pellentesque mattis lacus ac convallis feugiat. Nullam consequat dapibus quam non dignissim. In quis erat diam. Morbi fringilla, nisi at malesuada imperdiet, nisi nunc posuere tellus, at interdum turpis justo non nisl. Integer a commodo sem, id commodo urna. Donec a enim ac ante mattis scelerisque.
+Ryan explores how carbon cycling in freshwater lakes and reservoirs are changing as a result of changes in land use and climate. More specifically, Ryan integrates whole ecosystem experiments, modeling, and ecological forecasting to better understand water quality and aquatic biogeochemistry. You can find more info about Ryan’s research on his [website](https://www.ryanmclake.com/). 
+
+Ryan grew up in Michigan and spent a lot of time in the water. He moved to Montana in 2008, worked in a Freshwater Ecology lab with Dr. Wyatt Cross, and graduated with a degree in Ecology from Montana State University in 2012. Afterward, he worked on the Guppy Project in Trinidad and Tobago. In summer 2015, he joined the Carey Lab at Virginia Tech and received his PhD in 2020. He was then a postdoc at Virginia Tech and the Cary Institute of Ecosystem Studies before joining as a postdoc in the lab of BSE Deputy Directory Stephanie Hampton. Ryan just accepted an offer with the National Ecological Observatory Network as an Aquatic Scientist. 
 
 ## Contact
 
