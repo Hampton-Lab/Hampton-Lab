@@ -17,15 +17,22 @@ website:
   page-footer: 
     left: |
       [![](images/CISlogo.png){fig-alt="Carnegie Science" width=100px}](https://www.carnegiescience.edu)
+      1200 E. California Blvd. MC 156-29 Pasadena, CA 91125
+      
     right:
+      - text: Contact
+        href: contact.qmd
       - icon: twitter
         href: https://twitter.com/se_hampton
       - icon: github
         href: https://github.com/Hampton-Lab
         aria-label: Hampton Lab GitHub
-    center: |
-              Background Image of Lake Baikal Credit: [Andrei Chuganov](https://commons.wikimedia.org/wiki/File:Baikal_140629_0179.jpg#metadata)
-              | _Keratella serrulata_ Logo Credit: [Thomas G](https://commons.m.wikimedia.org/wiki/File:Keratella_serrulata_253892773.png)
+        
+
+    center: | 
+      | Background Image of Lake Baikal Credit: [Andrei Chuganov](https://commons.wikimedia.org/wiki/File:Baikal_140629_0179.jpg#metadata)
+      |  
+      |   _Keratella serrulata_ Logo Credit: [Thomas G](https://commons.m.wikimedia.org/wiki/File:Keratella_serrulata_253892773.png) |
     
 format:
   html:
