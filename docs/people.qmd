@@ -8,20 +8,20 @@ fig-align: left
 ## Current Members
 ::: {layout=[2,1] valigh="bottom"}
 
-| [![](images/Hampton_6.jpg){fig-alt="Stephanie Hampton" width="250px" height="200px"}](shampton.qmd)
+| [![](images/Hampton_6.jpg){fig-alt="Stephanie Hampton" width="250px" height="250px"}](shampton.qmd)
 | Stephanie Hampton 
 |      *Deputy Director* 
 |          *Biosphere Sciences & Engineering*
 
-| [![](images/ct_hs.png){fig-alt="Ceara Talbot" width="200px" height="200px"}](ctalbot.qmd)
+| [![](images/ct_hs.png){fig-alt="Ceara Talbot" width="250px" height="250px"}](ctalbot.qmd)
 | Ceara Talbot 
 |      *Postdoctoral Fellow*
 
-| [![](images/rm_hs.jpg){fig-alt="Ryan McClure" width="250px" height="200px"}](rmcclure.qmd)
+| [![](images/rm_hs.jpg){fig-alt="Ryan McClure" width="250px" height="250px"}](rmcclure.qmd)
 | Ryan McClure 
 |     *Postdoctoral Fellow*
 
-| [![](images/bcd_hs3.jpg){fig-alt="Braden Charles DeMattei" width="200px" height="200px"}](bcdemattei.qmd)
+| [![](images/bcd_hs3.jpg){fig-alt="Braden Charles DeMattei" width="250px" height="250px"}](bcdemattei.qmd)
 | Braden Charles DeMattei 
 |     *Lab & Data Manager*
 
