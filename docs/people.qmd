@@ -8,7 +8,7 @@ fig-align: left
 ## Current Members
 ::: {layout=[2,1] valigh="bottom"}
 
-| [![](images/Hampton_6.jpg){fig-alt="Stephanie Hampton" width="250px" height="250px"}](shampton.qmd)
+| [![](images/Hampton_6.jpg){fig-alt="Stephanie Hampton" width="270px" height="250px"}](shampton.qmd)
 | Stephanie Hampton 
 |      *Deputy Director* 
 |          *Biosphere Sciences & Engineering*
