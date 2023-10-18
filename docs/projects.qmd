@@ -5,24 +5,24 @@ format: html
 
 ## Carbon & Water Cycles in a Changing Climate
 ::: columns
-::: {.column width="40%"}
+::: {.column width="50%"}
 
-![](images/tempimg.jpg){width=250px}
+![Image Credit BCD](images/tempimg.jpg){width=250px}
 :::
 
-::: {.column width="60%"}
+::: {.column width="50%"}
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam placerat volutpat sapien, eu interdum elit suscipit ut. Praesent dolor tellus, ultrices et odio sit amet, iaculis porta ligula. Quisque rutrum auctor dui, ac iaculis magna eleifend quis. Vestibulum a euismod nibh, a varius lorem. Pellentesque mattis lacus ac convallis feugiat. Nullam consequat dapibus quam non dignissim. In quis erat diam. Morbi fringilla, nisi at malesuada imperdiet, nisi nunc posuere tellus, at interdum turpis justo non nisl. Integer a commodo sem, id commodo urna. Donec a enim ac ante mattis scelerisque.
 
 :::
 :::
 ## Under Ice Ecology
 ::: columns
-::: {.column width="40%"}
+::: {.column width="50%"}
 
-![](images/tempimg.jpg){width=250px}
+![Image Credit [japicoa](https://commons.wikimedia.org/wiki/File:Lago_Baikal_en_Invierno.jpg)](images/Lago_Baikal_en_Invierno_baikal_ice_ccby_japicoa.jpg){width=350px}
 :::
 
-::: {.column width="60%"}
+::: {.column width="50%"}
 Winter conditions are rapidly changing in temperate aquatic ecosystems, yet relatively little is known of winter ecology in these systems. However, particularly under clear ice, primary producers and consumers can be abundant in winter, and interesting dynamics occur in nutrient and carbon cycles. Winter dynamics affect not only food webs and biogeochemistry under the ice, but also processes throughout the year. These effects are especially evident in Lake Baikal where [we have worked with an international team](https://www.nytimes.com/2008/05/06/science/earth/06lake.html) for the past 18 years. In 2017, we led the [Ecology Under Lake Ice](https://www.nceas.ucsb.edu/workinggroups/ecology-under-lake-ice) collaboration which produced a [public data set](https://knb.ecoinformatics.org/view/doi%3A10.5063%2FF12V2D1V) and an [AGU Chapman Conference](https://connect.agu.org/aguchapmanconference/upcoming-chapmans/winter-limnology) that led to many [related publications](https://agupubs.onlinelibrary.wiley.com/doi/toc/10.1002/(ISSN)2169-8961.WINTERLIMNO) and new collaborations. A new NSF award focuses on examining annually shifting drivers and limitations on autotrophy and heterotrophy, specifically the interplay of light, nutrients, and dissolved organic carbon with variation in winter severity.
 
 :::
