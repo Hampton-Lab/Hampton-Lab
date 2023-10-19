@@ -6,13 +6,13 @@ toc: false
 
 # Email
 
-Stephanie Hampton: [shampton@carnegiescience.edu](mailto:shampton@carnegiescience.edu)
+Stephanie Hampton: shampton at carnegiescience.edu
 
-Ryan McClure: [rmcclure@carnegiescience.edu](mailto:rmcclure@carnegiescience.edu)
+Ryan McClure: rmcclure at carnegiescience.edu
 
-Ceara Talbot: [ctalbot@carnegiescience.edu](mailto:ctalbot@carnegiescience.edu)
+Ceara Talbot: ctalbot at carnegiescience.edu
 
-Braden Charles DeMattei: [bdemattei@carnegiescience.edu](mailto:bdemattei@carnegiescience)
+Braden Charles DeMattei: bdemattei at carnegiescience.edu
 
 
 # Mailing Address
