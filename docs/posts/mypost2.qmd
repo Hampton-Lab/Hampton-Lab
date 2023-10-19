@@ -1,7 +1,0 @@
----
-title: "mypost2"
-author: "BC DeMattei"
-date: "10/11/2023"
-format: html
----
-This is my second post!
