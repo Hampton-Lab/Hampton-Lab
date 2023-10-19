@@ -29,23 +29,26 @@ fig-align: left
 
 ## Alumni
 
-### Postdocs
-- Elizabeth Wolkovich (2009-2010; Associate Professor at University of British Columbia)
+- Matthew Brousil
 
-- Lindsay Scheef (2009–2011; Research Scientist at University of Texas) 
+- Aaron Galloway
 
-- Carly Strasser (2010-2013; Director of Academic Partnerships and Data Strategy at Fred Hutch)
+- Derek Gray
 
-- Stacy Rebich Hespanha (2011-2014; Research Associate at National Center for Ecological Analysis and Synthesis)
+- Stephanie Labou
 
-- Derek Gray (2012-2014; Associate Professor at Wilfried Laurier University)
+- Michael Meyer
 
-- Aaron Galloway (2014-2015; Associate Professor at Oregon Institute for Marine Biology)
+- Steve Powers
 
-- Steve Powers (2015-2019; Assistant Professor at Baylor University)
+- Stacy Rebich Hespanha
 
-### Graduate Students
-- M.S. Advisor for Elizabeth Rosenberger (née Seminet-Reneau; 2004-2006; Research Scientist for US Forest Service).
+- Elizabeth Rosenberger
 
-- Ph.D. Advisor for Michael Meyer (2015-2021; USGS Mendenhall Postdoctoral Fellow).
+- Lindsay Scheef
 
+- Carly Strasser
+
+- Elizabeth Wolkovich
+
+- Kara Woo

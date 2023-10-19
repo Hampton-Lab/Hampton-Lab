@@ -7,14 +7,15 @@ format: html
 ::: columns
 ::: {.column width="47.5%"}
 
-![Image Credit BCD](images/tempimg.jpg){width=250px}
+![Image Credit [Ryan McClure](https://www.ryanmclake.com/home/bubble-67ffb)](images/gassy_lake.jpeg){width=350px}
 :::
 
 ::: {.column width="5%"}
 
 :::
 ::: {.column width="47.5%"}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam placerat volutpat sapien, eu interdum elit suscipit ut. Praesent dolor tellus, ultrices et odio sit amet, iaculis porta ligula. Quisque rutrum auctor dui, ac iaculis magna eleifend quis. Vestibulum a euismod nibh, a varius lorem. Pellentesque mattis lacus ac convallis feugiat. Nullam consequat dapibus quam non dignissim. In quis erat diam. Morbi fringilla, nisi at malesuada imperdiet, nisi nunc posuere tellus, at interdum turpis justo non nisl. Integer a commodo sem, id commodo urna. Donec a enim ac ante mattis scelerisque.
+Changing climate is substantially altering water and carbon cycles from local to global scales. We focus on the ecology of these changes. Our group examines ecological processes that create patterns of water availability and water quality changes at global scales and those processes that drive changes in carbon dynamics within aquatic systems, and across interfaces of water with land and atmosphere. Current work includes: recent updates to the [Global Lake Area, Climate, and Population data set](https://www.nature.com/articles/s41597-020-0517-4); examining sources of uncertainty in [methane emissions from lakes](https://www.ryanmclake.com/home/bubble-67ffb); quantifying the magnitude and variation in [flow of carbon across the terrestrial-aquatic interface](ctalbot.qmd); and the [role of dissolved organic carbon](https://aslopubs.onlinelibrary.wiley.com/doi/10.1002/lno.10967) in supporting aquatic food webs.
+
 
 :::
 :::

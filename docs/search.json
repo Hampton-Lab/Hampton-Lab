@@ -7,20 +7,6 @@
     "text": "Email\nStephanie Hampton: shampton@carnegiescience.edu\nRyan McClure: rmcclure@carnegiescience.edu\nCeara Talbot: ctalbot@carnegiescience.edu\nBraden Charles DeMattei: bdemattei@carnegiescience.edu\n\n\nMailing Address\n1200 E. California Blvd. MC 156-29 Pasadena, CA 91125"
   },
   {
-    "objectID": "contact.html#email",
-    "href": "contact.html#email",
-    "title": "Contact",
-    "section": "",
-    "text": "Stephanie Hampton: shampton@carnegiescience.edu\nRyan McClure: rmcclure@carnegiescience.edu\nCeara Talbot: ctalbot@carnegiescience.edu\nBraden Charles DeMattei: bdemattei@carnegiescience.edu"
-  },
-  {
-    "objectID": "contact.html#mail",
-    "href": "contact.html#mail",
-    "title": "Contact",
-    "section": "Mail",
-    "text": "Mail\n1200 E. California Blvd. | MC 156-29 | Pasadena, CA 91125"
-  },
-  {
     "objectID": "posts/mypost2.html",
     "href": "posts/mypost2.html",
     "title": "mypost2",
@@ -102,14 +88,14 @@
     "href": "projects.html",
     "title": "Our Current Projects",
     "section": "",
-    "text": "Image Credit BCD\n\n\n\n\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam placerat volutpat sapien, eu interdum elit suscipit ut. Praesent dolor tellus, ultrices et odio sit amet, iaculis porta ligula. Quisque rutrum auctor dui, ac iaculis magna eleifend quis. Vestibulum a euismod nibh, a varius lorem. Pellentesque mattis lacus ac convallis feugiat. Nullam consequat dapibus quam non dignissim. In quis erat diam. Morbi fringilla, nisi at malesuada imperdiet, nisi nunc posuere tellus, at interdum turpis justo non nisl. Integer a commodo sem, id commodo urna. Donec a enim ac ante mattis scelerisque."
+    "text": "Image Credit Ryan McClure\n\n\n\n\n\nChanging climate is substantially altering water and carbon cycles from local to global scales. We focus on the ecology of these changes. Our group examines ecological processes that create patterns of water availability and water quality changes at global scales and those processes that drive changes in carbon dynamics within aquatic systems, and across interfaces of water with land and atmosphere. Current work includes: recent updates to the Global Lake Area, Climate, and Population data set; examining sources of uncertainty in methane emissions from lakes; quantifying the magnitude and variation in flow of carbon across the terrestrial-aquatic interface; and the role of dissolved organic carbon in supporting aquatic food webs."
   },
   {
     "objectID": "projects.html#carbon-water-cycles-in-a-changing-climate",
     "href": "projects.html#carbon-water-cycles-in-a-changing-climate",
     "title": "Our Current Projects",
     "section": "",
-    "text": "Image Credit BCD\n\n\n\n\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam placerat volutpat sapien, eu interdum elit suscipit ut. Praesent dolor tellus, ultrices et odio sit amet, iaculis porta ligula. Quisque rutrum auctor dui, ac iaculis magna eleifend quis. Vestibulum a euismod nibh, a varius lorem. Pellentesque mattis lacus ac convallis feugiat. Nullam consequat dapibus quam non dignissim. In quis erat diam. Morbi fringilla, nisi at malesuada imperdiet, nisi nunc posuere tellus, at interdum turpis justo non nisl. Integer a commodo sem, id commodo urna. Donec a enim ac ante mattis scelerisque."
+    "text": "Image Credit Ryan McClure\n\n\n\n\n\nChanging climate is substantially altering water and carbon cycles from local to global scales. We focus on the ecology of these changes. Our group examines ecological processes that create patterns of water availability and water quality changes at global scales and those processes that drive changes in carbon dynamics within aquatic systems, and across interfaces of water with land and atmosphere. Current work includes: recent updates to the Global Lake Area, Climate, and Population data set; examining sources of uncertainty in methane emissions from lakes; quantifying the magnitude and variation in flow of carbon across the terrestrial-aquatic interface; and the role of dissolved organic carbon in supporting aquatic food webs."
   },
   {
     "objectID": "projects.html#under-ice-ecology",
@@ -133,11 +119,11 @@
     "text": "We investigate the complex ecological dynamics underlying spatial patterns and temporal dynamics across and within aquatic ecosystems. We frequently employ data-intensive approaches to synthesize diverse existing data across the globe. As a result, our projects have often created an engaging, interdisciplinary, and international network of collaborators. We are strong proponents of open science, and strive to adhere to its principles. We value collaboration, rigorous science, constructive criticism, and collegiality."
   },
   {
-    "objectID": "index.html#about",
-    "href": "index.html#about",
+    "objectID": "index.html#what-we-do-in-the-hampton-lab",
+    "href": "index.html#what-we-do-in-the-hampton-lab",
     "title": "Hampton Lab",
-    "section": "About",
-    "text": "About\nWe investigate the complex ecological dynamics underlying spatial patterns and temporal dynamics across and within aquatic ecosystems. We frequently employ data-intensive approaches to synthesize diverse existing data across the globe. As a result, our projects have often created an engaging, interdisciplinary, and international network of collaborators. We are strong proponents of open science, and strive to adhere to its principles. We value collaboration, rigorous science, constructive criticism, and collegiality.\n\nGet in touch with us!"
+    "section": "",
+    "text": "We investigate the complex ecological dynamics underlying spatial patterns and temporal dynamics across and within aquatic ecosystems. We frequently employ data-intensive approaches to synthesize diverse existing data across the globe. As a result, our projects have often created an engaging, interdisciplinary, and international network of collaborators. We are strong proponents of open science, and strive to adhere to its principles. We value collaboration, rigorous science, constructive criticism, and collegiality."
   },
   {
     "objectID": "index.html#recent-news",
@@ -151,14 +137,14 @@
     "href": "bcdemattei.html#bio",
     "title": "Braden Charles DeMattei",
     "section": "Bio",
-    "text": "Bio\nBraden is a research assistant in the Hampton Lab at Carnegie’s BSE Division in Pasadena, and is responsible for the management of data and the needs of the lab. He received his B.S. in Marine Biology from the University of California, Los Angeles, and his MSc. with Commendation in Marine Conservation from the University of Aberdeen. In graduate school, he specialized in fisheries science, advanced statistics, and scientific communication, and studied bycatch rates in the Scottish, pelagic mixed fisheries industry for his thesis. Prior to working at Carnegie, Braden was in Sacramento working on California Central Valley salmon population management and habitat restoration. He also has experience with aquatic animal husbandry, water systems maintenance, administrative coordination, and record keeping.\nHe also built this website!"
+    "text": "Bio\nBraden is the Lab & Data Manager for the Hampton Lab at Carnegie’s BSE Division in Pasadena. He received his B.S. in Marine Biology from the University of California, Los Angeles in 2019, and his MSc. with Commendation in Marine Conservation from the University of Aberdeen in 2020. In graduate school, he specialized in fisheries science, advanced statistics & modeling, and scientific communication,. For his master’s thesis, he analyzed bycatch rates in the Scottish, pelagic mixed fisheries industry, and how they affected the Scottish government’s conservation and management goals.\nBraden has performed research in lab, office, and field settings in Northern & Southern California, Scotland, & French Polynesia. Prior to working at Carnegie, Braden was in Sacramento working on California Central Valley salmon population management and habitat restoration. He also has experience in aquatic animal husbandry, water systems maintenance, basic fabrication, administrative coordination, record keeping, and public speaking.\nHe also built this website!\nBraden’s GitHub"
   },
   {
     "objectID": "bcdemattei.html#contact",
     "href": "bcdemattei.html#contact",
     "title": "Braden Charles DeMattei",
     "section": "Contact",
-    "text": "Contact\nEmail: bdemattei@carnegiescience.edu"
+    "text": "Contact\nEmail: bdemattei@carnegiescience.edu\nLinkedIn"
   },
   {
     "objectID": "people.html",
@@ -179,34 +165,6 @@
     "href": "people.html#alumni",
     "title": "Who We Are",
     "section": "Alumni",
-    "text": "Alumni\n\nPostdocs\n\nElizabeth Wolkovich (2009-2010; Associate Professor at University of British Columbia)\nLindsay Scheef (2009–2011; Research Scientist at University of Texas)\nCarly Strasser (2010-2013; Director of Academic Partnerships and Data Strategy at Fred Hutch)\nStacy Rebich Hespanha (2011-2014; Research Associate at National Center for Ecological Analysis and Synthesis)\nDerek Gray (2012-2014; Associate Professor at Wilfried Laurier University)\nAaron Galloway (2014-2015; Associate Professor at Oregon Institute for Marine Biology)\nSteve Powers (2015-2019; Assistant Professor at Baylor University)\n\n\n\nGraduate Students\n\nM.S. Advisor for Elizabeth Rosenberger (née Seminet-Reneau; 2004-2006; Research Scientist for US Forest Service).\nPh.D. Advisor for Michael Meyer (2015-2021; USGS Mendenhall Postdoctoral Fellow)."
-  },
-  {
-    "objectID": "index.html#get-in-touch-with-us",
-    "href": "index.html#get-in-touch-with-us",
-    "title": "Hampton Lab",
-    "section": "Get in touch with us!",
-    "text": "Get in touch with us!"
-  },
-  {
-    "objectID": "index.html#what-we-do",
-    "href": "index.html#what-we-do",
-    "title": "Hampton Lab",
-    "section": "",
-    "text": "We investigate the complex ecological dynamics underlying spatial patterns and temporal dynamics across and within aquatic ecosystems. We frequently employ data-intensive approaches to synthesize diverse existing data across the globe. As a result, our projects have often created an engaging, interdisciplinary, and international network of collaborators. We are strong proponents of open science, and strive to adhere to its principles. We value collaboration, rigorous science, constructive criticism, and collegiality."
-  },
-  {
-    "objectID": "index.html#what-we-do-in-the-hampton-lab",
-    "href": "index.html#what-we-do-in-the-hampton-lab",
-    "title": "Hampton Lab",
-    "section": "",
-    "text": "We investigate the complex ecological dynamics underlying spatial patterns and temporal dynamics across and within aquatic ecosystems. We frequently employ data-intensive approaches to synthesize diverse existing data across the globe. As a result, our projects have often created an engaging, interdisciplinary, and international network of collaborators. We are strong proponents of open science, and strive to adhere to its principles. We value collaboration, rigorous science, constructive criticism, and collegiality."
-  },
-  {
-    "objectID": "contact.html#mailing-address",
-    "href": "contact.html#mailing-address",
-    "title": "Contact",
-    "section": "Mailing Address",
-    "text": "Mailing Address\n1200 E. California Blvd. MC 156-29 Pasadena, CA 91125"
+    "text": "Alumni\n\nMatthew Brousil\nAaron Galloway\nDerek Gray\nStephanie Labou\nMichael Meyer\nSteve Powers\nStacy Rebich Hespanha\nElizabeth Rosenberger\nLindsay Scheef\nCarly Strasser\nElizabeth Wolkovich\nKara Woo"
   }
 ]

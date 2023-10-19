@@ -8,10 +8,16 @@ format: html
 
 ## Bio
 
-Braden is a research assistant in the Hampton Lab at Carnegie’s BSE Division in Pasadena, and is responsible for the management of data and the needs of the lab. He received his B.S. in Marine Biology from the University of California, Los Angeles, and his MSc. with Commendation in Marine Conservation from the University of Aberdeen. In graduate school, he specialized in fisheries science, advanced statistics, and scientific communication, and studied bycatch rates in the Scottish, pelagic mixed fisheries industry for his thesis. Prior to working at Carnegie, Braden was in Sacramento working on California Central Valley salmon population management and habitat restoration. He also has experience with aquatic animal husbandry, water systems maintenance, administrative coordination, and record keeping. 
+Braden is the Lab & Data Manager for the Hampton Lab at Carnegie’s BSE Division in Pasadena. He received his B.S. in Marine Biology from the University of California, Los Angeles in 2019, and his MSc. with Commendation in Marine Conservation from the University of Aberdeen in 2020. In graduate school, he specialized in fisheries science, advanced statistics & modeling, and scientific communication,. For his master's thesis, he analyzed bycatch rates in the Scottish, pelagic mixed fisheries industry, and how they affected the Scottish government's conservation and management goals. 
+
+Braden has performed research in lab, office, and field settings in Northern & Southern California, Scotland, & [French Polynesia](https://link.springer.com/article/10.1007/s00338-021-02214-7). Prior to working at Carnegie, Braden was in Sacramento working on California Central Valley salmon population management and habitat restoration. He also has experience in aquatic animal husbandry, water systems maintenance, basic fabrication, administrative coordination, record keeping, and public speaking. 
 
 He also built this website!
+
+[Braden's GitHub](https://github.com/bcdemattei)
 
 ## Contact
 
 Email: [bdemattei@carnegiescience.edu](mailto:bdemattei@carnegiescience.edu)
+
+[LinkedIn](https://www.linkedin.com/in/bcdemattei/)
