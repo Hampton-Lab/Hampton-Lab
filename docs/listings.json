@@ -1,16 +1,10 @@
 [
   {
     "listing": "/news.html",
-    "items": [
-      "/posts/mypost2.html",
-      "/posts/mypost.html"
-    ]
+    "items": []
   },
   {
     "listing": "/index.html",
-    "items": [
-      "/posts/mypost2.html",
-      "/posts/mypost.html"
-    ]
+    "items": []
   }
 ]
