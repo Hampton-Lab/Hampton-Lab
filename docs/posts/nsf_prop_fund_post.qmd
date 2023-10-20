@@ -1,0 +1,21 @@
+---
+title: "National Science Foundation (NSF) Proposal Awarded"
+author: "B.C. DeMattei"
+date: "10/20/2023"
+format: html
+image: "images/Frozen_lake_2019.jpg"
+toc: false
+---
+
+::: columns
+::: {.column width="47.5%"}
+![Image Credit [Mdy66](https://commons.wikimedia.org/wiki/File:Frozen_lake_2019.jpg#filelinks)](images/Frozen_lake_2019.jpg){width="350px"}
+:::
+
+::: {.column width="5%"}
+
+:::
+::: {.column width="47.5%"}
+Our NSF proposal **“Advancing a comprehensive model of year-round ecosystem function in seasonally frozen lakes through networked science”** has been awarded, with an official start date of November 1, 2023!
+:::
+:::

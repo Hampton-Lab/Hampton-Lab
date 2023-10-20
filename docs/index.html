@@ -71,9 +71,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: [{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: [],
+      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -182,7 +182,34 @@ ul.task-list li input[type="checkbox"] {
 
 <div class="quarto-listing quarto-listing-container-default" id="listing-listing">
 <div class="list quarto-listing-default">
+<div class="quarto-post image-right" data-index="0" data-listing-date-sort="1697785200000" data-listing-file-modified-sort="1697839438334" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="thumbnail">
+<p><a href="./posts/nsf_prop_fund_post.html"> <img src="./posts/images/Frozen_lake_2019.jpg" class="thumbnail-image" style="height: 150px;"> </a></p>
+</div>
+<div class="body">
+<a href="./posts/nsf_prop_fund_post.html">
+<h3 class="no-anchor listing-title">
+National Science Foundation (NSF) Proposal Awarded
+</h3>
+<div class="listing-subtitle">
 
+</div>
+<div class="listing-description">
+Our NSF proposal <strong>“Advancing a comprehensive model of year-round ecosystem function in seasonally frozen lakes through networked science”</strong> has been awarded, with an…
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./posts/nsf_prop_fund_post.html">
+<div class="listing-date">
+Oct 20, 2023
+</div>
+<div class="listing-author">
+B.C. DeMattei
+</div>
+</a>
+</div>
+</div>
 </div>
 <div class="listing-no-matching d-none">
 No matching items

@@ -1,10 +1,14 @@
 [
   {
     "listing": "/news.html",
-    "items": []
+    "items": [
+      "/posts/nsf_prop_fund_post.html"
+    ]
   },
   {
     "listing": "/index.html",
-    "items": []
+    "items": [
+      "/posts/nsf_prop_fund_post.html"
+    ]
   }
 ]
