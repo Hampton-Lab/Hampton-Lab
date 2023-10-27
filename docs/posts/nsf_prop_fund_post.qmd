@@ -1,6 +1,6 @@
 ---
 title: "National Science Foundation (NSF) Proposal Awarded"
-author: "B.C. DeMattei"
+author: "Stephanie Hampton"
 date: "10/20/2023"
 format: html
 image: "images/Frozen_lake_2019.jpg"

@@ -1,0 +1,21 @@
+---
+title: "Visit to Castle Lake"
+author: "Stephanie Hampton"
+date: "10/27/2023"
+format: html
+image: "images/castle_lake.jpg"
+toc: false
+---
+
+::: columns
+::: {.column width="47.5%"}
+![](images/castle_lake.jpg){width="350px"}
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="47.5%"}
+Stephanie spent the past weekend in the field at the Castle Lake Research Station in California, hosted by Sudeep Chandra ([University of Nevada](https://www.unr.edu/water-center)) and joined by colleagues from USGS, University of Utah, and Illinois State University. Together they were testing methods for measuring oxygen at the sediment-water interface, where nutrients may come out of the sediments to become more available to periphyton at night. They aim to find an inexpensive and simple means of estimating these fluxes, so that the measurements may be widely deployed!
+:::
+:::

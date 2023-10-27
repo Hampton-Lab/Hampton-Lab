@@ -2,12 +2,14 @@
   {
     "listing": "/news.html",
     "items": [
+      "/posts/castle_lake_visit_post.html",
       "/posts/nsf_prop_fund_post.html"
     ]
   },
   {
     "listing": "/index.html",
     "items": [
+      "/posts/castle_lake_visit_post.html",
       "/posts/nsf_prop_fund_post.html"
     ]
   }
