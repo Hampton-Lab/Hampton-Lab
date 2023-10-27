@@ -7,7 +7,7 @@ format: html
 ::: columns
 ::: {.column width="47.5%"}
 
-![Image Credit [Ryan McClure](https://www.ryanmclake.com/home/bubble-67ffb)](images/gassy_lake.jpeg){width=350px height=250px}
+![Image Credit [Ryan McClure](https://www.ryanmclake.com/home/bubble-67ffb)](images/gassy_lake.jpeg){width=350px}
 :::
 
 ::: {.column width="5%"}
