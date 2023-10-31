@@ -5,6 +5,8 @@ format: html
 ---
 ## Peer Reviewed
 
+| Hampton, S.E., J.S. Baron, R. Ladwig, R.P. McClure, M.F. Meyer, I.A. Oleksy, and A. Shampain. 2023. Warming-induced changes in benthic redox as a potential driver of increasing benthic algal blooms in high-elevation lakes. Limnology and Oceanography Letters.
+|
 | Sharma, S., S.E. Hampton, and I.A. Kimirei. In press. Inland Waters: The Future of Limnology is Interdisciplinary, Collaborative, Inclusive, and Global. Chapter 31 in Wetzel’s Limnology, 2nd edition. 
 |
 | Brousil, M.R., et al. 2023. Improving ecological data science with workflow management software. Methods in Ecology & Evolution.
