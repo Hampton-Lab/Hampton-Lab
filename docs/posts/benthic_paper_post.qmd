@@ -1,0 +1,22 @@
+---
+title: "New Publication: Benthic Algal Blooms"
+author: "Stephanie Hampton"
+date: "11/03/2023"
+format: html
+image: "images/benthic.jpg"
+toc: false
+---
+
+::: columns
+::: {.column width="47.5%"}
+![](images/benthic.jpg){width="500px"}
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="47.5%"}
+Chasing down the mystery of nearshore benthic algal blooms in "blue water" lakes, our [new paper](https://doi.org/10.1002/lol2.10357) explores broad potential for warming water to fuel blooms via releasing nutrients from sediment. The paper develops the concept and we are looking forward to testing it empirically!
+:::
+:::
+
