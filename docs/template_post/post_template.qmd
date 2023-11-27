@@ -3,7 +3,18 @@ title: "YOUR TITLE"
 author: "YOUR NAME"
 date: "MM/DD/YYYY"
 format: html
-image: "post_images/YOUR-IMAGE.FILE-TYPE"
+image: "images/YOUR-IMAGE.FILE-TYPE"
 ---
-## Test
-### Test
+
+::: columns
+::: {.column width="47.5%"}
+![PH](images/Frozen_lake_2019.jpg){width="350px"}
+:::
+
+::: {.column width="5%"}
+
+:::
+::: {.column width="47.5%"}
+PLACEHOLDER: IPSUM LOREM WHOOPSEM DOOPSEM
+:::
+:::
