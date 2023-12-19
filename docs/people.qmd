@@ -17,10 +17,6 @@ fig-align: left
 | Ceara Talbot 
 |      *Postdoctoral Fellow*
 
-| [![](images/rm_hs.jpg){fig-alt="Ryan McClure" width="270px" height="250px"}](rmcclure.qmd)
-| Ryan McClure 
-|     *Postdoctoral Fellow*
-
 | [![](images/bcd_hs3.jpg){fig-alt="Braden Charles DeMattei" width="270px" height="250px"}](bcdemattei.qmd)
 | Braden Charles DeMattei 
 |     *Lab & Data Manager*
@@ -28,6 +24,8 @@ fig-align: left
 :::
 
 ## Alumni
+
+- Ryan McClure
 
 - Matthew Brousil
 

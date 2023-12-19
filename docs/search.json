@@ -42,15 +42,15 @@
     "text": "Contact\nEmail: ctalbot@carnegiescience.edu"
   },
   {
-    "objectID": "rmcclure.html#bio",
-    "href": "rmcclure.html#bio",
+    "objectID": "Archive/rmcclure.html#bio",
+    "href": "Archive/rmcclure.html#bio",
     "title": "Ryan McClure",
     "section": "Bio",
     "text": "Bio\nRyan explores how carbon cycling in freshwater lakes and reservoirs are changing as a result of changes in land use and climate. More specifically, Ryan integrates whole ecosystem experiments, modeling, and ecological forecasting to better understand water quality and aquatic biogeochemistry. You can find more info about Ryan’s research on his website.\nRyan grew up in Michigan and spent a lot of time in the water. He moved to Montana in 2008, worked in a Freshwater Ecology lab with Dr. Wyatt Cross, and graduated with a degree in Ecology from Montana State University in 2012. Afterward, he worked on the Guppy Project in Trinidad and Tobago. In summer 2015, he joined the Carey Lab at Virginia Tech and received his PhD in 2020. He was then a postdoc at Virginia Tech and the Cary Institute of Ecosystem Studies before joining as a postdoc in the lab of BSE Deputy Directory Stephanie Hampton. Ryan just accepted an offer with the National Ecological Observatory Network as an Aquatic Scientist."
   },
   {
-    "objectID": "rmcclure.html#contact",
-    "href": "rmcclure.html#contact",
+    "objectID": "Archive/rmcclure.html#contact",
+    "href": "Archive/rmcclure.html#contact",
     "title": "Ryan McClure",
     "section": "Contact",
     "text": "Contact\nEmail: rmcclure@carnegiescience.edu"
@@ -165,20 +165,27 @@
     "href": "people.html",
     "title": "Who We Are",
     "section": "",
-    "text": "Stephanie Hampton\n     Deputy Director\n         Biosphere Sciences & Engineering\n\n\n\nCeara Talbot\n     Postdoctoral Fellow\n\n\n\n\n\nRyan McClure\n    Postdoctoral Fellow\n\n\n\nBraden Charles DeMattei\n    Lab & Data Manager"
+    "text": "Stephanie Hampton\n     Deputy Director\n         Biosphere Sciences & Engineering\n\n\n\nCeara Talbot\n     Postdoctoral Fellow\n\n\n\n\n\nBraden Charles DeMattei\n    Lab & Data Manager"
   },
   {
     "objectID": "people.html#current-members",
     "href": "people.html#current-members",
     "title": "Who We Are",
     "section": "",
-    "text": "Stephanie Hampton\n     Deputy Director\n         Biosphere Sciences & Engineering\n\n\n\nCeara Talbot\n     Postdoctoral Fellow\n\n\n\n\n\nRyan McClure\n    Postdoctoral Fellow\n\n\n\nBraden Charles DeMattei\n    Lab & Data Manager"
+    "text": "Stephanie Hampton\n     Deputy Director\n         Biosphere Sciences & Engineering\n\n\n\nCeara Talbot\n     Postdoctoral Fellow\n\n\n\n\n\nBraden Charles DeMattei\n    Lab & Data Manager"
   },
   {
     "objectID": "people.html#alumni",
     "href": "people.html#alumni",
     "title": "Who We Are",
     "section": "Alumni",
-    "text": "Alumni\n\nMatthew Brousil\nAaron Galloway\nDerek Gray\nStephanie Labou\nMichael Meyer\nSteve Powers\nStacy Rebich Hespanha\nElizabeth Rosenberger\nLindsay Scheef\nCarly Strasser\nElizabeth Wolkovich\nKara Woo"
+    "text": "Alumni\n\nRyan McClure\nMatthew Brousil\nAaron Galloway\nDerek Gray\nStephanie Labou\nMichael Meyer\nSteve Powers\nStacy Rebich Hespanha\nElizabeth Rosenberger\nLindsay Scheef\nCarly Strasser\nElizabeth Wolkovich\nKara Woo"
+  },
+  {
+    "objectID": "template_post/post_template.html",
+    "href": "template_post/post_template.html",
+    "title": "YOUR TITLE",
+    "section": "",
+    "text": "PH\n\n\n\n\n\nPLACEHOLDER: IPSUM LOREM WHOOPSEM DOOPSEM"
   }
 ]
