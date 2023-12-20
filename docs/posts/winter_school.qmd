@@ -1,0 +1,20 @@
+---
+title: "Winter School 2024"
+author: "Stephanie Hampton"
+date: "12/19/2023"
+format: html
+image: "images/ice5.jpg"
+---
+
+::: columns
+::: {.column width="47.5%"}
+![Ted Ozersky](images/ice5.jpg){width="350px"}
+:::
+
+::: {.column width="5%"}
+
+:::
+::: {.column width="47.5%"}
+Registration for Winter School is now [live](https://winter-ice.github.io/winter-ice/wschool.html)!  The dates are March 11-14, 2024 at Trout Lake Station in Wisconsin, and the deadline for applications is 15 January. We will teach safety and methods for doing ecological research on frozen lakes, and talk about ways we hope our colleagues will engage in our newly [NSF funded Winter Limnology Network](https://winter-ice.github.io/winter-ice/).
+:::
+:::
