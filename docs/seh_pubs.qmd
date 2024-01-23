@@ -4,7 +4,8 @@ subtitle: "List of Publications"
 format: html
 ---
 ## Peer Reviewed
-
+| Meyer, M.F., Topp, S.N., King, T.V., et al. 2024. National-scale remotely sensed lake trophic state from 1984 through 2020. Sci Data 11, 77. DOI: [10.1038/s41597-024-02921-0](https://doi.org/10.1038/s41597-024-02921-0)
+|
 | Hampton, S.E., J.S. Baron, R. Ladwig, R.P. McClure, M.F. Meyer, I.A. Oleksy, and A. Shampain. 2023. Warming-induced changes in benthic redox as a potential driver of increasing benthic algal blooms in high-elevation lakes. Limnology and Oceanography Letters. DOI: [10.1002/lol2.10357](https://doi.org/10.1002/lol2.10357)
 |
 | Sharma, S., S.E. Hampton, and I.A. Kimirei. In press. Inland Waters: The Future of Limnology is Interdisciplinary, Collaborative, Inclusive, and Global. Chapter 31 in Wetzel’s Limnology, 2nd edition. DOI: [10.1016/b978-0-12-822701-5.00031-8](https://doi.org/10.1016/b978-0-12-822701-5.00031-8)
