@@ -36,7 +36,11 @@ website:
     
 format:
   html:
-    theme: flatly
+    theme: 
+      light: 
+        flatly
+      dark:
+        flatly
     css: styles.css
     toc: true
     linkcolor: white
