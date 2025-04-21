@@ -6,15 +6,13 @@ toc: false
 
 # Email
 
-Stephanie Hampton: shampton at carnegiescience.edu
-
-Ryan McClure: rmcclure at carnegiescience.edu
+Stephanie Hampton: sehampton at ucdavis.edu
 
 Ceara Talbot: ctalbot at carnegiescience.edu
 
-Braden Charles DeMattei: bdemattei at carnegiescience.edu
+Braden Charles DeMattei: bcdemattei at ucdavis.edu
 
 
 # Mailing Address
 
-1200 E. California Blvd. MC 156-29 Pasadena, CA 91125 
+201 Country Club Dr. Incline Village, NV 89451

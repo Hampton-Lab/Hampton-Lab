@@ -1,6 +1,9 @@
 ---
 title: "Hampton Lab"
-subtitle: "Carnegie Institution for Science | Pasadena, California"
+subtitle: |
+            UC Davis Department of Environmental Policy and Science
+            
+            UC Davis Tahoe Environmental Research Center
 format: html
 toc: false
 listing: 

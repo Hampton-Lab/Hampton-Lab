@@ -19,8 +19,12 @@ blockquote p {
     z-index: 2;
 }
 
+
+.navbar-title {
+  color: white;
+}
 .navbar li.nav-item a.nav-link span {
-  color: black !important;
+  color: white !important;
   text-shadow: 0px 0px 0px black;
 }
 
@@ -33,6 +37,8 @@ body {
   /*background-position: center center;*/
   /*background-attachment: fixed;*/
 }
+
+
 
 .sidebar nav[role="doc-toc"] ul > li > a.active {
     color: white !important;

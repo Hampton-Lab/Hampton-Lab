@@ -1,0 +1,22 @@
+---
+title: "Hampton Lab Moves to UC Davis"
+author: "Stephanie Hampton & Braden DeMattei"
+date: "04/18/2025"
+format: html
+image: "images/hampton_davis_boat.jpg"
+---
+
+::: columns
+::: {.column width="47.5%"}
+![](images/hampton_davis_boat.jpg){width="350px"}
+:::
+
+::: {.column width="5%"}
+
+:::
+::: {.column width="47.5%"}
+At the beginning of March, the Hampton Lab bid a fond farewell to Carnegie Science, and headed up north to the University of California, Davis where Stephanie assumed her new role as Director of the [Tahoe Environmental Research Center (TERC)](https://tahoe.ucdavis.edu/) and Professor in the [Department of Environmental Science and Policy.](https://desp.ucdavis.edu) We are incredibly excited to join TERC and work with our new colleagues to further deepen our understanding of Lake Tahoe's ecology and inspire all those who visit its gorgeous, deep cobalt blue waters.
+
+Read the [official announcement](https://www.ucdavis.edu/news/stephanie-hampton-appointed-director-tahoe-environmental-research-center) from UC Davis to learn more about this exciting new chapter for the Hampton Lab.
+:::
+:::

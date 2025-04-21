@@ -16,14 +16,14 @@ website:
     
   page-footer: 
     left: |
-      [![](images/CISlogo.png){fig-alt="Carnegie Science" width=100px}](https://www.carnegiescience.edu)
-      1200 E. California Blvd. MC 156-29 Pasadena, CA 91125
+      [![](images/TERC.png){fig-alt="UC Davis Tahoe Environmental Research Center" width=150px}](https://tahoe.ucdavis.edu)
+      201 Country Club Dr. Incline Village, NV 89451
       
     right:
       - text: Contact
         href: contact.qmd
       - icon: twitter
-        href: https://twitter.com/se_hampton
+        href: https://bsky.app/profile/sehampton.bsky.social
       - icon: github
         href: https://github.com/Hampton-Lab
         aria-label: Hampton Lab GitHub
@@ -36,10 +36,11 @@ website:
     
 format:
   html:
-    theme: cosmo
+    theme: flatly
     css: styles.css
     toc: true
     linkcolor: white
+    
 
 
 
