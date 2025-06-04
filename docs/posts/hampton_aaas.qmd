@@ -1,0 +1,20 @@
+---
+title: "Stephanie Hampton Selected as a Fellow of the AAAS"
+author: "Stephanie Hampton"
+date: "06/04/2025"
+format: html
+image: "images/AAAS-Fellows.jpg"
+---
+
+::: columns
+::: {.column width="47.5%"}
+![AAAS Congratulatory Image. Credit: AAAS](images/AAAS-Fellows.jpg){width="350px"}
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="47.5%"}
+The lab is very happy to announce that Stephanie was [selected](https://caes.ucdavis.edu/news/aaas) as a Fellow of the [American Association for the Advancement of Science](https://www.aaas.org/news/aaas-welcomes-471-scientists-and-engineers-honorary-fellows)! The induction ceremony takes place 7 June in Washington DC. The citation reads: "For distinguished contributions that have advanced environmental and aquatic science through interdisciplinary collaboration by enabling the infrastructure, open science, education, and training needed for large-scale inclusive environmental research."
+:::
+:::
