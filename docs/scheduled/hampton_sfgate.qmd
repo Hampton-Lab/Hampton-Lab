@@ -1,0 +1,20 @@
+---
+title: "Stephanie's First Secchi Depth Reading at Lake Tahoe"
+author: "Stephanie Hampton"
+date: "06/11/2025"
+format: html
+image: "images/sfgate_boatph.jpg"
+---
+
+::: columns
+::: {.column width="47.5%"}
+![Stephanie's First Secchi Depth Reading at Lake Tahoe](images/Hampton_Tahoe.mp4)
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="47.5%"}
+A few weeks after arriving on the job in Lake Tahoe, Stephanie had her chance to have her first Secchi depth reading - it was 30m! She got used to some really clear water, working on [Lake Baikal in Siberia](https://s3.wp.wsu.edu/uploads/sites/95/2014/11/Moore_Baikal_BioScience2009.pdf), but even those waters were not so clear - usually at Baikal, a summer water clarity measurement might be about 21m. The water was calm and a small storm moved across the north side of the lake - it was a beautiful welcome. A few days earlier, a reporter from SF Gate was out on the lake with the TERC team and captured similarly beautiful conditions [in this lovely story](https://www.sfgate.com/renotahoe/article/tahoe-influential-laboratory-aboard-48-year-boat-20292861.php).
+:::
+:::

@@ -2,7 +2,9 @@
   {
     "listing": "/news.html",
     "items": [
+      "/posts/scheduled/hampton_sfgate.html",
       "/posts/hampton_aaas.html",
+      "/posts/scheduled/demattei_cv4e.html",
       "/posts/hampton_davis_move.html",
       "/posts/winter_school.html",
       "/posts/benthic_paper_post.html",
