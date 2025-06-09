@@ -1,7 +1,7 @@
 ---
 title: "Stephanie's First Secchi Depth Reading at Lake Tahoe"
 author: "Stephanie Hampton"
-date: "06/11/2025"
+date: "06/09/2025"
 format: html
 image: "images/sfgate_boatph.jpg"
 ---

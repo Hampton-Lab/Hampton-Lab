@@ -2,6 +2,7 @@
   {
     "listing": "/news.html",
     "items": [
+      "/posts/hampton_sfgate.html",
       "/posts/hampton_aaas.html",
       "/posts/hampton_davis_move.html",
       "/posts/winter_school.html",
@@ -13,6 +14,7 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/hampton_sfgate.html",
       "/posts/hampton_aaas.html",
       "/posts/hampton_davis_move.html",
       "/posts/winter_school.html",
