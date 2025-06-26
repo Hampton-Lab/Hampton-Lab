@@ -21,6 +21,10 @@ fig-align: left
 | Braden Charles DeMattei 
 |     *Lab & Data Manager*
 
+| [![](images/dcrownover.jpg){fig-alt="Daniel Crownover" width="270px" height="250px"}](dcrown.qmd)
+| Daniel Crownover
+|     *PhD Student*
+
 :::
 
 ## Alumni

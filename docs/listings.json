@@ -2,6 +2,7 @@
   {
     "listing": "/news.html",
     "items": [
+      "/posts/demattei_cv4e.html",
       "/posts/hampton_sfgate.html",
       "/posts/hampton_aaas.html",
       "/posts/hampton_davis_move.html",
@@ -14,6 +15,7 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/demattei_cv4e.html",
       "/posts/hampton_sfgate.html",
       "/posts/hampton_aaas.html",
       "/posts/hampton_davis_move.html",

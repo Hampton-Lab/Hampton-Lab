@@ -1,7 +1,7 @@
 ---
 title: "Workshop Reflections: Computer Vision 4 Ecology"
 author: "Braden Charles DeMattei"
-date: "05/31/2025"
+date: "06/26/2025"
 format: html
 image: "images/cv4e_group.jpg"
 ---

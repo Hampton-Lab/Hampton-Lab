@@ -1,0 +1,17 @@
+---
+title: "Daniel Crownover"
+subtitle: "PhD Student"
+format: html
+---
+
+![](images/dcrownover.jpg){fig-alt="Daniel Crownover" width=500px}
+
+## Bio
+
+Dan is a community ecologist and doctoral researcher exploring species interactions in Lake Tahoe’s pelagic and benthic ecosystems, with a focus on changing ecological communities over time. Driven by a deep passion for wildlife and conservation for wild places, his research has taken him from the blistering savannas of Africa to the humid tropics of South America. Outside the lab, Dan enjoys playing acoustic guitar, mountain biking, mountaineering and backpacking deep in the wilderness.
+
+## Contact
+
+Email: [dcrownover@ucdavis.edu](mailto:dcrownover@ucdavis.edu)
+
+
