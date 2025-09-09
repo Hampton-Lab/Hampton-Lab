@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Hampton Lab</title>
+<title>Eckhardt Karsten – Hampton Lab</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -31,8 +31,6 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
 <link href="./images/roti_logo.png" rel="icon" type="image/png">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -71,70 +69,12 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
 
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
-
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
 
 <link rel="stylesheet" href="styles.css">
 </head>
 
-<body class="nav-fixed fullcontent">
+<body class="nav-fixed">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -155,7 +95,7 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link active" href="./index.html" aria-current="page"> 
+    <a class="nav-link" href="./index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
@@ -182,15 +122,23 @@ window.Quarto = {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#bio" id="toc-bio" class="nav-link active" data-scroll-target="#bio">Bio</a></li>
+  <li><a href="#contact" id="toc-contact" class="nav-link" data-scroll-target="#contact">Contact</a></li>
+  </ul>
+</nav>
+    </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Hampton Lab</h1>
-<p class="subtitle lead"></p><p>UC Davis Department of Environmental Policy and Science</p>
-<p>UC Davis Tahoe Environmental Research Center</p><p></p>
+<h1 class="title">Eckhardt Karsten</h1>
+<p class="subtitle lead">Lab &amp; Data Manager</p>
 </div>
 
 
@@ -207,55 +155,23 @@ window.Quarto = {
 </header>
 
 
-<section id="what-we-do-in-the-hampton-lab" class="level2">
-<h2 class="anchored" data-anchor-id="what-we-do-in-the-hampton-lab">What We Do in the Hampton Lab</h2>
-<p>We investigate the complex ecological dynamics underlying spatial patterns and temporal dynamics across and within aquatic ecosystems. We frequently employ data-intensive approaches to synthesize diverse existing data across the globe. As a result, our projects have often created an engaging, interdisciplinary, and international network of collaborators. We are strong proponents of <a href="https://esajournals.onlinelibrary.wiley.com/doi/full/10.1890/ES14-00402.1">open science</a>, and strive to adhere to its principles. We value collaboration, rigorous science, constructive criticism, and collegiality.</p>
-<section id="get-in-touch-with-us" class="level4">
-<h4 class="anchored" data-anchor-id="get-in-touch-with-us"><a href="./contact.html">Get in touch with us!</a></h4>
+<p><img src="images/eak_hs.jpg" class="img-fluid" alt="Eckhardt Karsten" width="500"></p>
+<section id="bio" class="level2">
+<h2 class="anchored" data-anchor-id="bio">Bio</h2>
+<p>Eckhardt is the Lab &amp; Data Manager for the Hampton lab at UC Davis’s Department of Environmental Science and Policy. He pursued a combined Bachelor’s-Master’s program as a member of the Rachael Morgan-Kiss Polar Ecophysiology lab at Miami University of Ohio, receiving his B.A in Microbiology &amp; Environmental Sciences in 2024 and completing his Msc in Microbiology in 2025. For his Master’s thesis, he used a molecular network approach to understand what role mycoplankton, or aquatic parasitic fungi, may play within the perrenially ice-covered lakes of the McMurdo Dry Valleys in Antarctica, and what implications this may have on nutrient cycling within these enclosed systems during the polar night.</p>
+<p>Eckhardt is a microbial ecologist at heart, and has had quite the adventure throughout their academic career. From studying how microbes define stream health in Appalachia as part of a BIOREU, working alongside world-class scientists at Pacific Northwest National Lab as a SULI intern to understand how microbes store resources under drought, to finally focusing on polar studies, he has gathered a breadth of experience to support the multidisciplinary work which is more and more critical to ecological studies. He also has experience in plankton culture maintenance, record keeping, public speaking, field operations.</p>
+<p>He has also inherited the maintenance of this website from the previous lab manager, Braden Charles Demattei!</p>
+<p><a href="https://github.com/Microbeventurer">Eckhardt’s GitHub</a></p>
 </section>
+<section id="contact" class="level2">
+<h2 class="anchored" data-anchor-id="contact">Contact</h2>
+<p>Email: <a href="mailto:ekarsten@ucdavis.edu">ekarsten@ucdavis.edu</a></p>
+<p><a href="https://www.linkedin.com/in/eckhardt-karsten/">LinkedIn</a></p>
+
+
 </section>
-<section id="recent-news" class="level2">
-<h2 class="anchored" data-anchor-id="recent-news">Recent News</h2>
 
-
-
-</section>
-
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
-<div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-listing-date-sort="1750921200000" data-listing-file-modified-sort="1757373883326" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="14" data-listing-word-count-sort="2632">
-<div class="thumbnail">
-<p><a href="./posts/demattei_cv4e.html" class="no-external"></a></p><a href="./posts/demattei_cv4e.html" class="no-external">
-<p><img loading="lazy" src="./posts/images/cv4e_group.jpg" class="thumbnail-image" style="height: 150px;"></p>
-</a><p><a href="./posts/demattei_cv4e.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/demattei_cv4e.html" class="no-external">Workshop Reflections: Computer Vision 4 Ecology</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./posts/demattei_cv4e.html" class="no-external"></a>
-</div>
-<div class="listing-description">
-<a href="./posts/demattei_cv4e.html" class="no-external">At the beginning of this year, I had the opportunity to attend the Computer Vision 4 Ecology (CV4E) workshop hosted at Caltech by Dr.&nbsp;Sara Beery (MIT), Dr.&nbsp;Eric Orenstein…<em></em><em></em></a>
-</div>
-</div>
-<div class="metadata">
-<a href="./posts/demattei_cv4e.html" class="no-external">
-<div class="listing-date">
-Jun 26, 2025
-</div>
-<div class="listing-author">
-Braden Charles DeMattei
-</div>
-</a>
-</div>
-</div>
-</div>
-<div class="listing-no-matching d-none">
-No matching items
-</div>
-</div></main> <!-- /main -->
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {

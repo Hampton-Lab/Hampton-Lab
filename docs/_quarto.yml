@@ -1,7 +1,7 @@
 project:
   type: website
-  
-  
+  output-dir: C:/Users/eckha/Desktop/Hampton-Lab/docs
+
 website:
   title: "Hampton Lab"
   favicon: images/roti_logo.png
