@@ -17,7 +17,7 @@ fig-align: left
 | Ceara Talbot 
 |      *Postdoctoral Fellow*
 
-| [![](images/eak_hs.jpg){fig-alt="Eckhardt Karsten" width="270px" height="250px"}](ekarsten.qmd)
+| [![](images/eak_hs.JPG){fig-alt="Eckhardt Karsten" width="270px" height="250px"}](ekarsten.qmd)
 | Eckhardt Karsten 
 |     *Lab & Data Manager*
 
