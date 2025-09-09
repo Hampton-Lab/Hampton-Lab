@@ -17,8 +17,8 @@ fig-align: left
 | Ceara Talbot 
 |      *Postdoctoral Fellow*
 
-| [![](images/bcd_hs3.jpg){fig-alt="Braden Charles DeMattei" width="270px" height="250px"}](bcdemattei.qmd)
-| Braden Charles DeMattei 
+| [![](images/eak_hs.jpg){fig-alt="Eckhardt Karsten" width="270px" height="250px"}](ekarsten.qmd)
+| Eckhardt Karsten 
 |     *Lab & Data Manager*
 
 | [![](images/dcrownover.jpg){fig-alt="Daniel Crownover" width="270px" height="250px"}](dcrown.qmd)
@@ -58,3 +58,5 @@ fig-align: left
 - Elizabeth Wolkovich
 
 - Kara Woo
+
+- Braden Charles Demattei
