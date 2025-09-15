@@ -25,6 +25,10 @@ fig-align: left
 | Daniel Crownover
 |     *PhD Student*
 
+| [![](images/az_hs.jpg){fig-alt="Angela Zhu" width="270px" height="250px"}](azhu.qmd)
+| Angela Zhu
+|     *PhD Student*
+
 :::
 
 ## Alumni

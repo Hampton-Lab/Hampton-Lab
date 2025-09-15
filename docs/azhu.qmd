@@ -1,0 +1,20 @@
+---
+title: "Angela Zhu"
+subtitle: "PhD Student"
+format: html
+---
+
+![](images/az_hs.JPG){fig-alt="Angela Zhu" width=500px}
+
+## Bio
+
+Angela is a freshwater ecosystem ecologist whose work broadly explores species interactions, including food web dynamics and parasitism, and she holds a particular enthusiasm for ecological stoichiometry. She is a Ph.D. student in the Hampton and Sadro labs at UC Davis. Angela earned her master’s degree in ecology and evolutionary biology from the University of Michigan, where her thesis examined the spatiotemporal patchiness of phytoplankton classes in southeastern Michigan lakes and developed into a time-series analysis of competitive interactions among those phytoplankton. 
+
+
+When she’s not working, Angela can be found hiking, kayaking, reading fantasy novels, or at a music concert. She also enjoys drawing and creating digital art in Procreate–and especially loves finding fun ways to tie it into her research.
+
+## Contact
+
+Email: [ayizhu@ucdavis.edu](mailto:ayizhu@ucdavis.edu)
+
+

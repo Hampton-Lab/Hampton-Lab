@@ -1,122 +1,10 @@
 [
   {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact",
+    "objectID": "template_post/post_template.html",
+    "href": "template_post/post_template.html",
+    "title": "YOUR TITLE",
     "section": "",
-    "text": "Email\nStephanie Hampton: sehampton at ucdavis.edu\nCeara Talbot: ctalbot at carnegiescience.edu\nBraden Charles DeMattei: bcdemattei at ucdavis.edu\n\n\nMailing Address\n201 Country Club Dr. Incline Village, NV 89451"
-  },
-  {
-    "objectID": "posts/castle_lake_visit_post.html",
-    "href": "posts/castle_lake_visit_post.html",
-    "title": "Visit to Castle Lake",
-    "section": "",
-    "text": "Stephanie spent the past weekend in the field at the Castle Lake Research Station in California, hosted by Sudeep Chandra (University of Nevada) and joined by colleagues from USGS, University of Utah, and Illinois State University. Together they were testing methods for measuring oxygen at the sediment-water interface, where nutrients may come out of the sediments to become more available to periphyton at night. They aim to find an inexpensive and simple means of estimating these fluxes, so that the measurements may be widely deployed!"
-  },
-  {
-    "objectID": "posts/hampton_davis_move.html",
-    "href": "posts/hampton_davis_move.html",
-    "title": "Hampton Lab Moves to UC Davis",
-    "section": "",
-    "text": "At the beginning of March, the Hampton Lab bid a fond farewell to Carnegie Science, and headed up north to the University of California, Davis where Stephanie assumed her new role as Director of the Tahoe Environmental Research Center (TERC) and Professor in the Department of Environmental Science and Policy. We are incredibly excited to join TERC and work with our new colleagues to further deepen our understanding of Lake Tahoe’s ecology and inspire all those who visit its gorgeous, deep cobalt blue waters.\nRead the official announcement from UC Davis to learn more about this exciting new chapter for the Hampton Lab."
-  },
-  {
-    "objectID": "posts/demattei_cv4e.html",
-    "href": "posts/demattei_cv4e.html",
-    "title": "Workshop Reflections: Computer Vision 4 Ecology",
-    "section": "",
-    "text": "At the beginning of this year, I had the opportunity to attend the Computer Vision 4 Ecology (CV4E) workshop hosted at Caltech by Dr. Sara Beery (MIT), Dr. Eric Orenstein (National Oceanography Center) and Dr. Pietro Perona (Caltech). Over three weeks in January, myself and an international group of early-career ecologists were taught the fundamentals of computer vision & machine learning (CVML), the different model architectures that were at our disposal, and how to incorporate what we were taught into our own projects. My project, “Close Encounters of the Rotiferan Kind”, focused on automating video analysis using an image-classification model (YOLOv5) to detect when a stationary, predatory rotifer (Philodina sp.) encounters its motile, algal prey (Cryptomonas erosa). The road to completing this project not only involved months of preparation but also resilience and tenacity in the face of the tragic Eaton Fire.\nPrior to my application to CV4E, I had been culturing two species of Synchaeta: Synchaeta sp. and Synchaeta tremula. Interestingly, while the Synchaeta sp. was a purely motile species, S. tremula had the ability to secrete mucus strands with which it could anchor its eggs and itself while it grazed. This tendency to anchor while feeding made it much easier to record an individual’s hunting efforts in its entirety without having to refocus a microscope or move a petri dish to keep the individual in view. Combining this stationary behavior with the motile alga, Cryptomonas erosa, facilitated a setup that would allow for a more thorough analysis of the predator’s hunting abilities. The idea was this: wait for the S. tremula individual to anchor, introduce the algae, and film the rotifer until it un-anchored to find a new feeding spot. The video would then be annotated to detect and classify the algae and the rotifer, as well as to classify the rotifer’s predatory behavior using established behavior scoring methods (Encounter, Attack, Reject, Ingest, and Escape). All of this would be accomplished prior to the workshop, where I would then work with the instructors to adapt and train machine learning models to automate the process. As the process of preparing for the workshop progressed, it would become apparent that this was all much easier said than done, both due to worst-case scenario setbacks and technical limitations."
-  },
-  {
-    "objectID": "posts/demattei_cv4e.html#preparation",
-    "href": "posts/demattei_cv4e.html#preparation",
-    "title": "Workshop Reflections: Computer Vision 4 Ecology",
-    "section": "Preparation",
-    "text": "Preparation\nI found out that I was accepted into the workshop while on vacation in New York City with my then-girlfriend-now-wife in May 2024. We and an old college friend of mine were sitting in the audience of an off-broadway murder mystery play when I received the message that I would be attending the workshop in January 2025. A few days later, still in NYC, I got a message from Stephanie who had been tending to my rotifers in my absence letting me know that all of the S. tremula cultures had begun to crash. As you can imagine, this was as far from ideal as one can get. My stress levels were rising for two major, interconnected reasons: the feasibility of the project hinged on having a stationary rotifer species and the only other rotifer species I had cultures of were purely motile. When I got back to work, I immediately began trying to figure out how to make the Synchaeta sp. individuals stationary so that I could begin filming. This was a short lived process as my Synchaeta sp. cultures also began to crash shortly after and were completely decimated a week or so later. It seemed my enthusiasm about this workshop ended as soon as it began, but I do not give in to worry and despair so easily.\nWith an empty, rotifer-less lab, I ventured back to the ponds of Caltech looking for any signs of S. tremula. I searched sample after sample of concentrated pond water and found nothing but cladocerans, protists, and all manner of odd, alien looking creatures. Right as all hope seemed lost, I looked at one more sample of pond water and, during this particular search, a leaf had made it into the petri dish from the sample bottle. It was a situation where if I had blinked or focused the microscope at the wrong time, I would have missed it. There she was, anchored to the bottom of the leaf: a single rotifer with its unmistakeable corona fully extended, creating a feeding field. It took me twenty minutes to dislodge her safely from that leaf with my glass pipette and transferred into a fresh, new culture. She was not the Synchaeta tremula I was looking for, but she anchored to eat and that was all I cared about in that moment. While I cannot entirely remember, I believe that all occurred on a Friday, so I had to wait over the weekend to see if she would survive. That following Monday, I put my bags at my desk and immediately set up the culture under the stereoscope. Not only did she survive, she had reproduced–one had become two. I was ecstatic, immediately messaging Stephanie with my updates. Those two individuals in one petri dish eventually grew to seven petri dishes with &gt;30 individuals in each dish.\n\n\n\n\nOur next task was to identify this species. For the longest time, we believed it to be a monogonastic rotifer of the genus Rhinoglena. However, once I was able to successfully isolate the trophus under a higher powered microscope, it was clear that these rotifers were not monogonants at all, but were in fact bdelloids. We would later further identify them down to the Philodinidae family using a morphological key, and even further down to the Philodina genus by comparing the trophus to Philodinidae trophi. These Philodina sp. individuals behaved similarly to S. tremula, aside from the mucus thread. They freely swim until they find a suitable spot and substrate to anchor onto with their foot and begin feeding. Once an individual anchors, and they find the spot to be sufficient, it will begin to lay eggs, creating small groupings of individuals (or ‘complexes’ as I unofficially labeled them). While they mainly prefer to anchor to the bottom of the petri dish, I have observed and documented many individuals anchoring to the sides of the dishes, to loose threads that find their into the culture, and even the surface tension of the water!\nHaving a healthy amount of Philodina sp. to work with, I got started on filming the videos that would comprise the dataset I would take with me to the workshop. At this time I began thinking of how I would realistically annotate the rotifers’ feeding behavior and that is when the project’s biggest technical limitation reared its ugly head. I realized that training a model to identify and classify behaviors, on top of identifying and classifying between rotifer and alga, was too complex a task for my first foray into computer vision. I decided to boil the problem down into a simpler, more manageable form: creating a model that can detect when a rotifer encounters its prey. As simple as it sounds, this was a good starting point for a computer vision neophyte.\nWith this new goal in mind, I set about annotating the videos in Label Studio–an open source video+image annotation software–with the invaluable help of our two summer interns, Lia and Katelyn. Over the course of a few days, we annotated every C. erosa and Philodina sp. frame by frame for ~10,000 frames across seven videos. Later on I would decide to record more videos before the workshop which would up the frame count to 15,000. Once the last annotation was saved, the preparation for the workshop was done and the real work was just about to begin."
-  },
-  {
-    "objectID": "posts/demattei_cv4e.html#workshop",
-    "href": "posts/demattei_cv4e.html#workshop",
-    "title": "Workshop Reflections: Computer Vision 4 Ecology",
-    "section": "Workshop",
-    "text": "Workshop\nThe night before and the morning of the workshop’s first day, my stomach was in knots. Were my python skills sharp enough? Did I get enough data? What if my annotations were messed up? Is my project good enough? My mind raced with these questions and insecurities. My one comfort was that my office was just a two minute walk from where the workshop was to be held, so if something catastrophic happened to my data, I could pull a few long nights in the lab to make up the loss. I got to campus early, parked in my usual spot, and made my way to my office to settle my nerves in a familiar environment. But the time came, as it always does, to put on a brave face and head over to the Resnick Sustainability Institute to face one of my biggest fears: meeting new people.\nMy CV4E 2025 cohort was a diverse group of international early career ecologists with traveling from as close as Palo Alto, California and as far as Israel and Germany. I was used to sitting in an office by myself, so it was a nice change of pace to be around so many other early career folks. We started that first day with instructor introductions and short introductory presentations for each project. Our first two days were then a crash course on remote workflows, computer vision terminology, and how to decide on code bases and model architectures.\nThe latter half of those first two days was independent work time where we split up into the subgroups we had been assigned months earlier. It was at the end of the first day’s work time that my heart dropped; I realized that the mp4 files I decided to use were not lining up with my annotations. After some trial and error, it turned out that I needed to use my much larger AVI files as the mp4 files were somehow exported at a lower frame rate. An annoying problem to be sure, but one with an easy solution. At the end of the second day, I stayed on campus later into the evening to re-export the videos into the correct file format. That would be the last time I would step on the Caltech campus for two weeks.\nDriving home that night was a terrifying experience. The Santa Ana winds were blowing harder than I had ever experienced, and I could feel my car fighting with me to stay pointed straight. The 210 freeway that I always take home came to a dead stop, so I decided to take surface streets home. I exited onto a pitch black street in Altadena. The power had gone out from the winds and debris littered the streets. Waiting my turn at dead traffic light, a firetruck raced through the intersection heading deeper into neighborhoods. Little did I know at that time that I witnessed the first of many brave firefighters rushing to fight the blaze that would turn into one of the deadliest in Los Angeles history.\n\n\n\n\nThe next day, the group chat the cohort used to communicate was a constant stream of worried and concerned messages. The motel my new friends were staying at was on the edge of an ‘Evacuation Order Zone’, right on the other side of the freeway from the fire. I decided that day to join the workshop remotely, as my and my wife’s house was on the edge of an ‘Evacuation Warning Zone’ and the winds were still howling. The air was thick with smoke and the orange light that illuminated the sky looked like we had been transported to the middle of Mordor. A townhall was convened and it was decided that it was no longer safe for the cohort to stay at the motel and that the workshop would move to UC Santa Barbara until the fire was more under control. I elected to stay as I did not want to leave my wife alone to wrangle our 3 cats in the event they needed to evacuate.\nThe next two weeks were incredibly productive, albeit lonely. The most contact I would have with my cohort would be during the couple hours of lectures we had in the morning. My afternoons would mostly consist of quiet working time writing Python code, addressing frustrating errors that seemed unsolvable, and reading the cohort group chat to see what fun activities they were up to up North while I was stuck inside nervously refreshing the Watch Duty app for updates.\nDespite the worry and the roadblocks, progress was made and lessons were learned slowly but surely. The first victory was training my first YOLOv5 model, which was able to detect and classify both rotifers and algae. The second, which took a week on its own to figure out, was implementing a tracking algorithm into the YOLOv5 inference script so that individual algae’s distances from the rotifer could be tracked. Incorporating the Simple Online and Realtime Tracking model (SORT) into my workflow took many iterations of trial and error, but eventually it worked! By the end of the second week, I had a model that could not only detect and classify rotifers and algae, but could also assign each an ID number that would allow the model to track each individual’s position.\nBy the time the 3rd week had begun, the Eaton Fire had been contained to manageable enough levels that the air quality had significantly improved, allowing the workshop to travel back down to Caltech for its final week. While the fire was managed, the smell of smoke lingered in the air and everyone wore masks to protect themselves from the toxic ash that had been blown onto campus. Despite everything, it was nice to be around and work with people in person again as we entered the final stretch.\n\n\n\n\nMy final goal for that week was to adjust the inference script further to measure the normalized distance between a tracked alga and the rotifer, compare it to a threshold, have a bounding box be generated around the two interacting individuals if its crossed, and then enter the time stamp, frame number, & object IDs into an ‘Encounter Log’ spreadsheet for later review. It took three days of trial and error, but the feeling when that first successful video and spreadsheet were outputted was indescribable. After months and months of preparation, and three turbulent, stressful weeks of coding, I had achieved what I had set out to accomplish during the workshop. The last couple days were mostly preparing a project presentation to give to the wider group, which happened to be the first presentation I had given in 5 years.\nThe experience of attending the CV4E 2025 workshop was an absolutely wonderful opportunity that comes around once in a lifetime. While I successfully created my first Computer Vision model, the work is far from over. Looking at the error graphs from that initial run showed that more training data was needed. Not only that, but this work will hopefully be built on as I enter the next phase of my career as a PhD student at The Ohio State University studying under Dr. Tanya Berger-Wolf and Dr. Jim Hood. This foray into the integrated world of computer vision and ecology has only fueled my excitement to further develop this interdisciplinary pairing. With 20 more videos and ~55,000 more frames in hand, there is more news to come.\nAn extra big thank you to the CV4E instructors, my fellow workshop students, and Stephanie for supporting me in this venture. I quite literally could not have done any of this without their guidance, help, and moral support."
-  },
-  {
-    "objectID": "posts/benthic_paper_post.html",
-    "href": "posts/benthic_paper_post.html",
-    "title": "New Publication: Benthic Algal Blooms",
-    "section": "",
-    "text": "Chasing down the mystery of nearshore benthic algal blooms in “blue water” lakes, our new paper explores broad potential for warming water to fuel blooms via releasing nutrients from sediment. The paper develops the concept and we are looking forward to testing it empirically!"
-  },
-  {
-    "objectID": "posts/nsf_prop_fund_post.html",
-    "href": "posts/nsf_prop_fund_post.html",
-    "title": "National Science Foundation (NSF) Proposal Awarded",
-    "section": "",
-    "text": "Image Credit Mdy66\n\n\n\n\n\nOur NSF proposal “Advancing a comprehensive model of year-round ecosystem function in seasonally frozen lakes through networked science” has been awarded, with an official start date of November 1, 2023!"
-  },
-  {
-    "objectID": "posts/winter_school.html",
-    "href": "posts/winter_school.html",
-    "title": "Winter School 2024",
-    "section": "",
-    "text": "Ted Ozersky\n\n\n\n\n\nRegistration for Winter School is now live! The dates are March 11-14, 2024 at Trout Lake Station in Wisconsin, and the deadline for applications is 15 January. We will teach safety and methods for doing ecological research on frozen lakes, and talk about ways we hope our colleagues will engage in our newly NSF funded Winter Limnology Network."
-  },
-  {
-    "objectID": "posts/hampton_aaas.html",
-    "href": "posts/hampton_aaas.html",
-    "title": "Stephanie Hampton Selected as a Fellow of the AAAS",
-    "section": "",
-    "text": "AAAS Congratulatory Image. Credit: AAAS\n\n\n\n\n\nThe lab is very happy to announce that Stephanie was selected as a Fellow of the American Association for the Advancement of Science! The induction ceremony takes place 7 June in Washington DC. The citation reads: “For distinguished contributions that have advanced environmental and aquatic science through interdisciplinary collaboration by enabling the infrastructure, open science, education, and training needed for large-scale inclusive environmental research.”"
-  },
-  {
-    "objectID": "posts/hampton_sfgate.html",
-    "href": "posts/hampton_sfgate.html",
-    "title": "Stephanie’s First Secchi Depth Reading at Lake Tahoe",
-    "section": "",
-    "text": "Video\nStephanie’s First Secchi Depth Reading at Lake Tahoe\n\n\n\n\n\nA few weeks after arriving on the job in Lake Tahoe, Stephanie had her chance to have her first Secchi depth reading - it was 30m! She got used to some really clear water, working on Lake Baikal in Siberia, but even those waters were not so clear - usually at Baikal, a summer water clarity measurement might be about 21m. The water was calm and a small storm moved across the north side of the lake - it was a beautiful welcome. A few days earlier, a reporter from SF Gate was out on the lake with the TERC team and captured similarly beautiful conditions in this lovely story."
-  },
-  {
-    "objectID": "ctalbot.html#bio",
-    "href": "ctalbot.html#bio",
-    "title": "Ceara Talbot",
-    "section": "Bio",
-    "text": "Bio\nCeara is an ecosystem ecologist, who is broadly interested in quantifying and predicting the relative contributions of terrestrial and aquatic ecosystems to land-atmosphere carbon (C) exchange. She primarily focuses on the role of lateral C transport in linking terrestrial and aquatic C and water cycling, with an emphasis on cross-ecosystem synthesis. She uses a combination of process model and data-based approaches. Her research spans spatiotemporal scales from days to decades and watersheds to continents.\nIn 2023, Ceara received a Ph.D. in Biological Sciences from the University of Notre Dame, where she developed a coupled terrestrial and aquatic C and hydrology process model, leveraged cross-ecosystem observations of C and water, and created a conceptual framework of the drivers and processes involved in LCT production in terrestrial ecosystems. In 2018, she received a M.Sc. in Environmental and Life Sciences from Trent University and her thesis research focused on the impact of flooding disturbances on aquatic biogeochemistry and ecosystem services. As an undergraduate researcher at Saint Anselm College and as an intern at Woods Hole Research Center (now Woodwell Research Center), she applied lab, field, and remote sensing approaches to answer a variety of questions related to ecological and societal consequences of climate change.\nCeara’s Google Scholar\nCeara’s GitHub"
-  },
-  {
-    "objectID": "ctalbot.html#contact",
-    "href": "ctalbot.html#contact",
-    "title": "Ceara Talbot",
-    "section": "Contact",
-    "text": "Contact\nEmail: ctalbot@carnegiescience.edu"
-  },
-  {
-    "objectID": "Archive/rmcclure.html#bio",
-    "href": "Archive/rmcclure.html#bio",
-    "title": "Ryan McClure",
-    "section": "Bio",
-    "text": "Bio\nRyan explores how carbon cycling in freshwater lakes and reservoirs are changing as a result of changes in land use and climate. More specifically, Ryan integrates whole ecosystem experiments, modeling, and ecological forecasting to better understand water quality and aquatic biogeochemistry. You can find more info about Ryan’s research on his website.\nRyan grew up in Michigan and spent a lot of time in the water. He moved to Montana in 2008, worked in a Freshwater Ecology lab with Dr. Wyatt Cross, and graduated with a degree in Ecology from Montana State University in 2012. Afterward, he worked on the Guppy Project in Trinidad and Tobago. In summer 2015, he joined the Carey Lab at Virginia Tech and received his PhD in 2020. He was then a postdoc at Virginia Tech and the Cary Institute of Ecosystem Studies before joining as a postdoc in the lab of BSE Deputy Directory Stephanie Hampton. Ryan just accepted an offer with the National Ecological Observatory Network as an Aquatic Scientist."
-  },
-  {
-    "objectID": "Archive/rmcclure.html#contact",
-    "href": "Archive/rmcclure.html#contact",
-    "title": "Ryan McClure",
-    "section": "Contact",
-    "text": "Contact\nEmail: rmcclure@carnegiescience.edu"
-  },
-  {
-    "objectID": "shampton.html#bio",
-    "href": "shampton.html#bio",
-    "title": "Stephanie Hampton",
-    "section": "Bio",
-    "text": "Bio\nStephanie Hampton’s research has progressed from basic investigations in aquatic ecology using statistical analysis of large-scale databases, to broader applications of empirical evidence in science and society. Her core expertise is in aquatic science, statistical analysis, and environmental informatics. Her research includes analyzing long-term ecological data collected from lakes as globally diverse as Lake Baikal in Siberia and Lake Washington in Seattle. Together with collaborators, she has shown how lakes respond to municipal management practices such as sewage diversion. She has also helped demonstrate the effects of climate change on plankton—the basic building blocks of aquatic food webs – with a recent emphasis on the implications of winter ice loss across the globe.\nLeadership positions in research institutions have given her an opportunity to engage in a variety of large interdisciplinary collaborations at the interface of informatics and environmental science, including those that focus on the social and technical dimensions of scientific collaboration. On every level, Hampton strives to promote data sharing, open science, and wider adoption of cutting-edge informatics for more effective and transparent environmental research. She is a leader in efforts to improve computational literacy and supports access to a robust cyberinfrastructure for everyone engaged in the environmental sciences.\nHampton joined Carnegie as Deputy Director of Carnegie’s newly launched Division of Biosphere Sciences and Engineering at the end of July 2022. She arrived from the National Science Foundation, where she was the director of the Division of Environmental Biology for 4 years. Previously she was also a professor and the former director of an interdisciplinary environmental research center at Washington State University, and deputy director of the National Center for Ecological Analysis and Synthesis at UC Santa Barbara for 9 years. She is the 2023 President-elect of the Ecological Society of America.\nShe received her Ph.D. in ecology and evolution from Dartmouth College, a master’s degree in biology from University of Nevada Las Vegas, and a bachelor’s degree in biology from the University of Kansas.\nList of Publications\nFull CV (.doc)"
-  },
-  {
-    "objectID": "shampton.html#contact",
-    "href": "shampton.html#contact",
-    "title": "Stephanie Hampton",
-    "section": "Contact",
-    "text": "Contact\nEmail: shampton@carnegiescience.edu\nTwitter: @se_hampton"
+    "text": "PH\n\n\n\n\n\nPLACEHOLDER: IPSUM LOREM WHOOPSEM DOOPSEM"
   },
   {
     "objectID": "seh_pubs.html",
@@ -140,11 +28,214 @@
     "text": "Non Peer Reviewed\nMeyer, M. F., M. R. Brousil, A. N. Cramer, B. P. Lanouette, J. C. Padowski, and S. E. Hampton. In press. The Global Lake Area, Climate, and Population Dataset: A New Tool for Addressing Critical Limnological Questions. Limnology and Oceanography Bulletin DOI: 10.1002/lob.10406\n\nHampton, S. E., S. M. Powers, S. P. Devlin, and D. M. McKnight. 2020. Big questions, few answers about what happens under lake ice. Eos 101: DOI: 10.1029/2020EO146256.\n\nHampton, S.E. (with B.C. Clark). 2020. A natural understanding. Washington Magazine Summer 2020.\n\nPollard, A.I., Hampton, S.E., Leech, D.M. 2018. The promise and potential of continental‐scale limnology using the U.S. Environmental Protection Agency’s National Lakes Assessment. Limnology & Oceanography Bulletin. DOI: 10.1002/lob.10238\n\nHampton, S.E., et al. 2017. Best practices for virtual participation in meetings: experiences from synthesis centers. The Bulletin of the Ecological Society of America 98: 57–63. DOI: 10.1002/bes2.1290.\n\nHampton, S.E., Gray, D., Sharma, S., and O’Reilly, C.M. 2016. Rapid and highly variable warming of lake surface waters around the globe. Mountain Views Chronicle10(1): 5-8. DOI: 10.1002/2015GL066235\n\nPowers, S.M., and S.E. Hampton. 2016. Winter limnology as a new frontier. Limnology and Oceanography Bulletin 25(4): 103–108. DOI: 10.1002/lob.10152\n\nHampton, S.E. and E.H. Stanley. 2013. Long-term perspectives on lake science and management. Limnology and Oceanography Bulletin 22(3): 74-75. DOI: 10.1002/lob.201322374\n\nHampton, S.E., C.A. Strasser, and J.J. Tewksbury. 2013. Growing Pains: Taking Ecology into the 21st Century. BioScience 63(2): 69-71. DOI: 10.1525/bio.2013.63.2.2.\n\nHampton, S.E., J.J. Tewksbury, and C.A. Strasser. 2012. Ecological data in the Information Age. Frontiers in Ecology and the Environment 10 (2): 59. DOI: 10.1890/1540-9295-10.2.59\n\nHampton, S.E., and T.A. Wheeler. 2011. Fostering the rebirth of natural history. Biology Letters. Online Early 31 Aug 2011. DOI: 10.1098/rsbl.2011.0777\n\nSchindler, D.E., and S.E. Hampton. 2004. Book review – Regime Shifts in Lake Ecosystems: Patterns and Processes by Stephen R. Carpenter. Quarterly Review of Biology 79(4): 445. DOI: 10.1086/428228\n\nWilson, K.A. and S.E. Hampton. 2004. Teaching tips for new professors. Bulletin of the Ecological Society of America 85(2): 56-64."
   },
   {
+    "objectID": "posts/winter_school.html",
+    "href": "posts/winter_school.html",
+    "title": "Winter School 2024",
+    "section": "",
+    "text": "Ted Ozersky\n\n\n\n\n\nRegistration for Winter School is now live! The dates are March 11-14, 2024 at Trout Lake Station in Wisconsin, and the deadline for applications is 15 January. We will teach safety and methods for doing ecological research on frozen lakes, and talk about ways we hope our colleagues will engage in our newly NSF funded Winter Limnology Network."
+  },
+  {
+    "objectID": "posts/hampton_sfgate.html",
+    "href": "posts/hampton_sfgate.html",
+    "title": "Stephanie’s First Secchi Depth Reading at Lake Tahoe",
+    "section": "",
+    "text": "Video\nStephanie’s First Secchi Depth Reading at Lake Tahoe\n\n\n\n\n\nA few weeks after arriving on the job in Lake Tahoe, Stephanie had her chance to have her first Secchi depth reading - it was 30m! She got used to some really clear water, working on Lake Baikal in Siberia, but even those waters were not so clear - usually at Baikal, a summer water clarity measurement might be about 21m. The water was calm and a small storm moved across the north side of the lake - it was a beautiful welcome. A few days earlier, a reporter from SF Gate was out on the lake with the TERC team and captured similarly beautiful conditions in this lovely story."
+  },
+  {
+    "objectID": "posts/hampton_aaas.html",
+    "href": "posts/hampton_aaas.html",
+    "title": "Stephanie Hampton Selected as a Fellow of the AAAS",
+    "section": "",
+    "text": "AAAS Congratulatory Image. Credit: AAAS\n\n\n\n\n\nThe lab is very happy to announce that Stephanie was selected as a Fellow of the American Association for the Advancement of Science! The induction ceremony takes place 7 June in Washington DC. The citation reads: “For distinguished contributions that have advanced environmental and aquatic science through interdisciplinary collaboration by enabling the infrastructure, open science, education, and training needed for large-scale inclusive environmental research.”"
+  },
+  {
+    "objectID": "posts/castle_lake_visit_post.html",
+    "href": "posts/castle_lake_visit_post.html",
+    "title": "Visit to Castle Lake",
+    "section": "",
+    "text": "Stephanie spent the past weekend in the field at the Castle Lake Research Station in California, hosted by Sudeep Chandra (University of Nevada) and joined by colleagues from USGS, University of Utah, and Illinois State University. Together they were testing methods for measuring oxygen at the sediment-water interface, where nutrients may come out of the sediments to become more available to periphyton at night. They aim to find an inexpensive and simple means of estimating these fluxes, so that the measurements may be widely deployed!"
+  },
+  {
+    "objectID": "people.html",
+    "href": "people.html",
+    "title": "Who We Are",
+    "section": "",
+    "text": "Stephanie Hampton\n     Director\n         Tahoe Environmental Research Center\n\n\n\nCeara Talbot\n     Postdoctoral Fellow\n\n\n\n\n\nEckhardt Karsten\n    Lab & Data Manager\n\n\n\nDaniel Crownover\n    PhD Student\n\n\n\n\n\nAngela Zhu\n    PhD Student"
+  },
+  {
+    "objectID": "people.html#current-members",
+    "href": "people.html#current-members",
+    "title": "Who We Are",
+    "section": "",
+    "text": "Stephanie Hampton\n     Director\n         Tahoe Environmental Research Center\n\n\n\nCeara Talbot\n     Postdoctoral Fellow\n\n\n\n\n\nEckhardt Karsten\n    Lab & Data Manager\n\n\n\nDaniel Crownover\n    PhD Student\n\n\n\n\n\nAngela Zhu\n    PhD Student"
+  },
+  {
+    "objectID": "people.html#alumni",
+    "href": "people.html#alumni",
+    "title": "Who We Are",
+    "section": "Alumni",
+    "text": "Alumni\n\nMatthew Brousil\nKatelyn Coste\nAaron Galloway\nDerek Gray\nStephanie Labou\nRyan McClure\nMichael Meyer\nLia Meza\nSteve Powers\nStacy Rebich Hespanha\nElizabeth Rosenberger\nLindsay Scheef\nCarly Strasser\nElizabeth Wolkovich\nKara Woo\nBraden Charles Demattei"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Hampton Lab",
+    "section": "",
+    "text": "We investigate the complex ecological dynamics underlying spatial patterns and temporal dynamics across and within aquatic ecosystems. We frequently employ data-intensive approaches to synthesize diverse existing data across the globe. As a result, our projects have often created an engaging, interdisciplinary, and international network of collaborators. We are strong proponents of open science, and strive to adhere to its principles. We value collaboration, rigorous science, constructive criticism, and collegiality."
+  },
+  {
+    "objectID": "index.html#what-we-do-in-the-hampton-lab",
+    "href": "index.html#what-we-do-in-the-hampton-lab",
+    "title": "Hampton Lab",
+    "section": "",
+    "text": "We investigate the complex ecological dynamics underlying spatial patterns and temporal dynamics across and within aquatic ecosystems. We frequently employ data-intensive approaches to synthesize diverse existing data across the globe. As a result, our projects have often created an engaging, interdisciplinary, and international network of collaborators. We are strong proponents of open science, and strive to adhere to its principles. We value collaboration, rigorous science, constructive criticism, and collegiality."
+  },
+  {
+    "objectID": "index.html#recent-news",
+    "href": "index.html#recent-news",
+    "title": "Hampton Lab",
+    "section": "Recent News",
+    "text": "Recent News"
+  },
+  {
+    "objectID": "dcrown.html#bio",
+    "href": "dcrown.html#bio",
+    "title": "Daniel Crownover",
+    "section": "Bio",
+    "text": "Bio\nDan is a community ecologist and doctoral researcher exploring species interactions in Lake Tahoe’s pelagic and benthic ecosystems, with a focus on changing ecological communities over time. Driven by a deep passion for wildlife and conservation for wild places, his research has taken him from the blistering savannas of Africa to the humid tropics of South America. Outside the lab, Dan enjoys playing acoustic guitar, mountain biking, mountaineering and backpacking deep in the wilderness."
+  },
+  {
+    "objectID": "dcrown.html#contact",
+    "href": "dcrown.html#contact",
+    "title": "Daniel Crownover",
+    "section": "Contact",
+    "text": "Contact\nEmail: dcrownover@ucdavis.edu"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Email\nStephanie Hampton: sehampton at ucdavis.edu\nCeara Talbot: ctalbot at carnegiescience.edu\nBraden Charles DeMattei: bcdemattei at ucdavis.edu\n\n\nMailing Address\n201 Country Club Dr. Incline Village, NV 89451"
+  },
+  {
+    "objectID": "azhu.html#bio",
+    "href": "azhu.html#bio",
+    "title": "Angela Zhu",
+    "section": "Bio",
+    "text": "Bio\nAngela is a freshwater ecosystem ecologist whose work broadly explores species interactions, including food web dynamics and parasitism, and she holds a particular enthusiasm for ecological stoichiometry. She is a Ph.D. student in the Hampton and Sadro labs at UC Davis. Angela earned her master’s degree in ecology and evolutionary biology from the University of Michigan, where her thesis examined the spatiotemporal patchiness of phytoplankton classes in southeastern Michigan lakes and developed into a time-series analysis of competitive interactions among those phytoplankton.\nWhen she’s not working, Angela can be found hiking, kayaking, reading fantasy novels, or at a music concert. She also enjoys drawing and creating digital art in Procreate–and especially loves finding fun ways to tie it into her research."
+  },
+  {
+    "objectID": "azhu.html#contact",
+    "href": "azhu.html#contact",
+    "title": "Angela Zhu",
+    "section": "Contact",
+    "text": "Contact\nEmail: ayizhu@ucdavis.edu"
+  },
+  {
+    "objectID": "Archive/rmcclure.html#bio",
+    "href": "Archive/rmcclure.html#bio",
+    "title": "Ryan McClure",
+    "section": "Bio",
+    "text": "Bio\nRyan explores how carbon cycling in freshwater lakes and reservoirs are changing as a result of changes in land use and climate. More specifically, Ryan integrates whole ecosystem experiments, modeling, and ecological forecasting to better understand water quality and aquatic biogeochemistry. You can find more info about Ryan’s research on his website.\nRyan grew up in Michigan and spent a lot of time in the water. He moved to Montana in 2008, worked in a Freshwater Ecology lab with Dr. Wyatt Cross, and graduated with a degree in Ecology from Montana State University in 2012. Afterward, he worked on the Guppy Project in Trinidad and Tobago. In summer 2015, he joined the Carey Lab at Virginia Tech and received his PhD in 2020. He was then a postdoc at Virginia Tech and the Cary Institute of Ecosystem Studies before joining as a postdoc in the lab of BSE Deputy Directory Stephanie Hampton. Ryan just accepted an offer with the National Ecological Observatory Network as an Aquatic Scientist."
+  },
+  {
+    "objectID": "Archive/rmcclure.html#contact",
+    "href": "Archive/rmcclure.html#contact",
+    "title": "Ryan McClure",
+    "section": "Contact",
+    "text": "Contact\nEmail: rmcclure@carnegiescience.edu"
+  },
+  {
+    "objectID": "bcdemattei.html#bio",
+    "href": "bcdemattei.html#bio",
+    "title": "Braden Charles DeMattei",
+    "section": "Bio",
+    "text": "Bio\nBraden is the Lab & Data Manager for the Hampton Lab at Carnegie’s BSE Division in Pasadena. He received his B.S. in Marine Biology from the University of California, Los Angeles in 2019, and his MSc. with Commendation in Marine Conservation from the University of Aberdeen in 2020. In graduate school, he specialized in fisheries science, advanced statistics & modeling, and scientific communication,. For his master’s thesis, he analyzed bycatch rates in the Scottish, pelagic mixed fisheries industry, and how they affected the Scottish government’s conservation and management goals.\nBraden has performed research in lab, office, and field settings in Northern & Southern California, Scotland, & French Polynesia. Prior to working at Carnegie, Braden was in Sacramento working on California Central Valley salmon population management and habitat restoration. He also has experience in aquatic animal husbandry, water systems maintenance, basic fabrication, administrative coordination, record keeping, and public speaking.\nHe also built this website!\nBraden’s GitHub"
+  },
+  {
+    "objectID": "bcdemattei.html#contact",
+    "href": "bcdemattei.html#contact",
+    "title": "Braden Charles DeMattei",
+    "section": "Contact",
+    "text": "Contact\nEmail: bcdemattei@ucdavis.edu\nLinkedIn"
+  },
+  {
+    "objectID": "ctalbot.html#bio",
+    "href": "ctalbot.html#bio",
+    "title": "Ceara Talbot",
+    "section": "Bio",
+    "text": "Bio\nCeara is an ecosystem ecologist, who is broadly interested in quantifying and predicting the relative contributions of terrestrial and aquatic ecosystems to land-atmosphere carbon (C) exchange. She primarily focuses on the role of lateral C transport in linking terrestrial and aquatic C and water cycling, with an emphasis on cross-ecosystem synthesis. She uses a combination of process model and data-based approaches. Her research spans spatiotemporal scales from days to decades and watersheds to continents.\nIn 2023, Ceara received a Ph.D. in Biological Sciences from the University of Notre Dame, where she developed a coupled terrestrial and aquatic C and hydrology process model, leveraged cross-ecosystem observations of C and water, and created a conceptual framework of the drivers and processes involved in LCT production in terrestrial ecosystems. In 2018, she received a M.Sc. in Environmental and Life Sciences from Trent University and her thesis research focused on the impact of flooding disturbances on aquatic biogeochemistry and ecosystem services. As an undergraduate researcher at Saint Anselm College and as an intern at Woods Hole Research Center (now Woodwell Research Center), she applied lab, field, and remote sensing approaches to answer a variety of questions related to ecological and societal consequences of climate change.\nCeara’s Google Scholar\nCeara’s GitHub"
+  },
+  {
+    "objectID": "ctalbot.html#contact",
+    "href": "ctalbot.html#contact",
+    "title": "Ceara Talbot",
+    "section": "Contact",
+    "text": "Contact\nEmail: ctalbot@carnegiescience.edu"
+  },
+  {
+    "objectID": "ekarsten.html#bio",
+    "href": "ekarsten.html#bio",
+    "title": "Eckhardt Karsten",
+    "section": "Bio",
+    "text": "Bio\nEckhardt is the Lab & Data Manager for the Hampton lab at UC Davis’s Department of Environmental Science and Policy. He pursued a combined Bachelor’s-Master’s program as a member of the Rachael Morgan-Kiss Polar Ecophysiology lab at Miami University of Ohio, receiving his B.A in Microbiology & Environmental Sciences in 2024 and completing his Msc in Microbiology in 2025. For his Master’s thesis, he used a molecular network approach to understand what role mycoplankton, or aquatic parasitic fungi, may play within the perrenially ice-covered lakes of the McMurdo Dry Valleys in Antarctica, and what implications this may have on nutrient cycling within these enclosed systems during the polar night.\nEckhardt is a microbial ecologist at heart, and has had quite the adventure throughout their academic career. From studying how microbes define stream health in Appalachia as part of a BIOREU, working alongside world-class scientists at Pacific Northwest National Lab as a SULI intern to understand how microbes store resources under drought, to finally focusing on polar studies, he has gathered a breadth of experience to support the multidisciplinary work which is more and more critical to ecological studies. He also has experience in plankton culture maintenance, record keeping, public speaking, field operations.\nOutside of the lab, he enjoys to go hiking, rock climbing, and cooking.\nHe has also inherited the maintenance of this website from the previous lab manager, Braden Charles DeMattei!\nEckhardt’s GitHub"
+  },
+  {
+    "objectID": "ekarsten.html#contact",
+    "href": "ekarsten.html#contact",
+    "title": "Eckhardt Karsten",
+    "section": "Contact",
+    "text": "Contact\nEmail: ekarsten@ucdavis.edu\nLinkedIn"
+  },
+  {
     "objectID": "news.html",
     "href": "news.html",
     "title": "Lab News",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n  \n\n\n\n\nWorkshop Reflections: Computer Vision 4 Ecology\n\n\n\n\n\n\n\n\n\n\n\n\nJun 26, 2025\n\n\nBraden Charles DeMattei\n\n\n\n\n\n\n  \n\n\n\n\nStephanie’s First Secchi Depth Reading at Lake Tahoe\n\n\n\n\n\n\n\n\n\n\n\n\nJun 9, 2025\n\n\nStephanie Hampton\n\n\n\n\n\n\n  \n\n\n\n\nStephanie Hampton Selected as a Fellow of the AAAS\n\n\n\n\n\n\n\n\n\n\n\n\nJun 4, 2025\n\n\nStephanie Hampton\n\n\n\n\n\n\n  \n\n\n\n\nHampton Lab Moves to UC Davis\n\n\n\n\n\n\n\n\n\n\n\n\nApr 18, 2025\n\n\nStephanie Hampton & Braden DeMattei\n\n\n\n\n\n\n  \n\n\n\n\nWinter School 2024\n\n\n\n\n\n\n\n\n\n\n\n\nDec 19, 2023\n\n\nStephanie Hampton\n\n\n\n\n\n\n  \n\n\n\n\nNew Publication: Benthic Algal Blooms\n\n\n\n\n\n\n\n\n\n\n\n\nNov 3, 2023\n\n\nStephanie Hampton\n\n\n\n\n\n\n  \n\n\n\n\nVisit to Castle Lake\n\n\n\n\n\n\n\n\n\n\n\n\nOct 27, 2023\n\n\nStephanie Hampton\n\n\n\n\n\n\n  \n\n\n\n\nNational Science Foundation (NSF) Proposal Awarded\n\n\n\n\n\n\n\n\n\n\n\n\nOct 20, 2023\n\n\nStephanie Hampton\n\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nWorkshop Reflections: Computer Vision 4 Ecology\n\n\n\n\n\n\n\n\n\n\n\nJun 26, 2025\n\n\nBraden Charles DeMattei\n\n\n\n\n\n\n\n\n\n\n\n\nStephanie’s First Secchi Depth Reading at Lake Tahoe\n\n\n\n\n\n\n\n\n\n\n\nJun 9, 2025\n\n\nStephanie Hampton\n\n\n\n\n\n\n\n\n\n\n\n\nStephanie Hampton Selected as a Fellow of the AAAS\n\n\n\n\n\n\n\n\n\n\n\nJun 4, 2025\n\n\nStephanie Hampton\n\n\n\n\n\n\n\n\n\n\n\n\nHampton Lab Moves to UC Davis\n\n\n\n\n\n\n\n\n\n\n\nApr 18, 2025\n\n\nStephanie Hampton & Braden DeMattei\n\n\n\n\n\n\n\n\n\n\n\n\nWinter School 2024\n\n\n\n\n\n\n\n\n\n\n\nDec 19, 2023\n\n\nStephanie Hampton\n\n\n\n\n\n\n\n\n\n\n\n\nNew Publication: Benthic Algal Blooms\n\n\n\n\n\n\n\n\n\n\n\nNov 3, 2023\n\n\nStephanie Hampton\n\n\n\n\n\n\n\n\n\n\n\n\nVisit to Castle Lake\n\n\n\n\n\n\n\n\n\n\n\nOct 27, 2023\n\n\nStephanie Hampton\n\n\n\n\n\n\n\n\n\n\n\n\nNational Science Foundation (NSF) Proposal Awarded\n\n\n\n\n\n\n\n\n\n\n\nOct 20, 2023\n\n\nStephanie Hampton\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/benthic_paper_post.html",
+    "href": "posts/benthic_paper_post.html",
+    "title": "New Publication: Benthic Algal Blooms",
+    "section": "",
+    "text": "Chasing down the mystery of nearshore benthic algal blooms in “blue water” lakes, our new paper explores broad potential for warming water to fuel blooms via releasing nutrients from sediment. The paper develops the concept and we are looking forward to testing it empirically!"
+  },
+  {
+    "objectID": "posts/demattei_cv4e.html",
+    "href": "posts/demattei_cv4e.html",
+    "title": "Workshop Reflections: Computer Vision 4 Ecology",
+    "section": "",
+    "text": "At the beginning of this year, I had the opportunity to attend the Computer Vision 4 Ecology (CV4E) workshop hosted at Caltech by Dr. Sara Beery (MIT), Dr. Eric Orenstein (National Oceanography Center) and Dr. Pietro Perona (Caltech). Over three weeks in January, myself and an international group of early-career ecologists were taught the fundamentals of computer vision & machine learning (CVML), the different model architectures that were at our disposal, and how to incorporate what we were taught into our own projects. My project, “Close Encounters of the Rotiferan Kind”, focused on automating video analysis using an image-classification model (YOLOv5) to detect when a stationary, predatory rotifer (Philodina sp.) encounters its motile, algal prey (Cryptomonas erosa). The road to completing this project not only involved months of preparation but also resilience and tenacity in the face of the tragic Eaton Fire.\nPrior to my application to CV4E, I had been culturing two species of Synchaeta: Synchaeta sp. and Synchaeta tremula. Interestingly, while the Synchaeta sp. was a purely motile species, S. tremula had the ability to secrete mucus strands with which it could anchor its eggs and itself while it grazed. This tendency to anchor while feeding made it much easier to record an individual’s hunting efforts in its entirety without having to refocus a microscope or move a petri dish to keep the individual in view. Combining this stationary behavior with the motile alga, Cryptomonas erosa, facilitated a setup that would allow for a more thorough analysis of the predator’s hunting abilities. The idea was this: wait for the S. tremula individual to anchor, introduce the algae, and film the rotifer until it un-anchored to find a new feeding spot. The video would then be annotated to detect and classify the algae and the rotifer, as well as to classify the rotifer’s predatory behavior using established behavior scoring methods (Encounter, Attack, Reject, Ingest, and Escape). All of this would be accomplished prior to the workshop, where I would then work with the instructors to adapt and train machine learning models to automate the process. As the process of preparing for the workshop progressed, it would become apparent that this was all much easier said than done, both due to worst-case scenario setbacks and technical limitations."
+  },
+  {
+    "objectID": "posts/demattei_cv4e.html#preparation",
+    "href": "posts/demattei_cv4e.html#preparation",
+    "title": "Workshop Reflections: Computer Vision 4 Ecology",
+    "section": "Preparation",
+    "text": "Preparation\nI found out that I was accepted into the workshop while on vacation in New York City with my then-girlfriend-now-wife in May 2024. We and an old college friend of mine were sitting in the audience of an off-broadway murder mystery play when I received the message that I would be attending the workshop in January 2025. A few days later, still in NYC, I got a message from Stephanie who had been tending to my rotifers in my absence letting me know that all of the S. tremula cultures had begun to crash. As you can imagine, this was as far from ideal as one can get. My stress levels were rising for two major, interconnected reasons: the feasibility of the project hinged on having a stationary rotifer species and the only other rotifer species I had cultures of were purely motile. When I got back to work, I immediately began trying to figure out how to make the Synchaeta sp. individuals stationary so that I could begin filming. This was a short lived process as my Synchaeta sp. cultures also began to crash shortly after and were completely decimated a week or so later. It seemed my enthusiasm about this workshop ended as soon as it began, but I do not give in to worry and despair so easily.\nWith an empty, rotifer-less lab, I ventured back to the ponds of Caltech looking for any signs of S. tremula. I searched sample after sample of concentrated pond water and found nothing but cladocerans, protists, and all manner of odd, alien looking creatures. Right as all hope seemed lost, I looked at one more sample of pond water and, during this particular search, a leaf had made it into the petri dish from the sample bottle. It was a situation where if I had blinked or focused the microscope at the wrong time, I would have missed it. There she was, anchored to the bottom of the leaf: a single rotifer with its unmistakeable corona fully extended, creating a feeding field. It took me twenty minutes to dislodge her safely from that leaf with my glass pipette and transferred into a fresh, new culture. She was not the Synchaeta tremula I was looking for, but she anchored to eat and that was all I cared about in that moment. While I cannot entirely remember, I believe that all occurred on a Friday, so I had to wait over the weekend to see if she would survive. That following Monday, I put my bags at my desk and immediately set up the culture under the stereoscope. Not only did she survive, she had reproduced–one had become two. I was ecstatic, immediately messaging Stephanie with my updates. Those two individuals in one petri dish eventually grew to seven petri dishes with &gt;30 individuals in each dish.\n\n\n\n\nOur next task was to identify this species. For the longest time, we believed it to be a monogonastic rotifer of the genus Rhinoglena. However, once I was able to successfully isolate the trophus under a higher powered microscope, it was clear that these rotifers were not monogonants at all, but were in fact bdelloids. We would later further identify them down to the Philodinidae family using a morphological key, and even further down to the Philodina genus by comparing the trophus to Philodinidae trophi. These Philodina sp. individuals behaved similarly to S. tremula, aside from the mucus thread. They freely swim until they find a suitable spot and substrate to anchor onto with their foot and begin feeding. Once an individual anchors, and they find the spot to be sufficient, it will begin to lay eggs, creating small groupings of individuals (or ‘complexes’ as I unofficially labeled them). While they mainly prefer to anchor to the bottom of the petri dish, I have observed and documented many individuals anchoring to the sides of the dishes, to loose threads that find their into the culture, and even the surface tension of the water!\nHaving a healthy amount of Philodina sp. to work with, I got started on filming the videos that would comprise the dataset I would take with me to the workshop. At this time I began thinking of how I would realistically annotate the rotifers’ feeding behavior and that is when the project’s biggest technical limitation reared its ugly head. I realized that training a model to identify and classify behaviors, on top of identifying and classifying between rotifer and alga, was too complex a task for my first foray into computer vision. I decided to boil the problem down into a simpler, more manageable form: creating a model that can detect when a rotifer encounters its prey. As simple as it sounds, this was a good starting point for a computer vision neophyte.\nWith this new goal in mind, I set about annotating the videos in Label Studio–an open source video+image annotation software–with the invaluable help of our two summer interns, Lia and Katelyn. Over the course of a few days, we annotated every C. erosa and Philodina sp. frame by frame for ~10,000 frames across seven videos. Later on I would decide to record more videos before the workshop which would up the frame count to 15,000. Once the last annotation was saved, the preparation for the workshop was done and the real work was just about to begin."
+  },
+  {
+    "objectID": "posts/demattei_cv4e.html#workshop",
+    "href": "posts/demattei_cv4e.html#workshop",
+    "title": "Workshop Reflections: Computer Vision 4 Ecology",
+    "section": "Workshop",
+    "text": "Workshop\nThe night before and the morning of the workshop’s first day, my stomach was in knots. Were my python skills sharp enough? Did I get enough data? What if my annotations were messed up? Is my project good enough? My mind raced with these questions and insecurities. My one comfort was that my office was just a two minute walk from where the workshop was to be held, so if something catastrophic happened to my data, I could pull a few long nights in the lab to make up the loss. I got to campus early, parked in my usual spot, and made my way to my office to settle my nerves in a familiar environment. But the time came, as it always does, to put on a brave face and head over to the Resnick Sustainability Institute to face one of my biggest fears: meeting new people.\nMy CV4E 2025 cohort was a diverse group of international early career ecologists with traveling from as close as Palo Alto, California and as far as Israel and Germany. I was used to sitting in an office by myself, so it was a nice change of pace to be around so many other early career folks. We started that first day with instructor introductions and short introductory presentations for each project. Our first two days were then a crash course on remote workflows, computer vision terminology, and how to decide on code bases and model architectures.\nThe latter half of those first two days was independent work time where we split up into the subgroups we had been assigned months earlier. It was at the end of the first day’s work time that my heart dropped; I realized that the mp4 files I decided to use were not lining up with my annotations. After some trial and error, it turned out that I needed to use my much larger AVI files as the mp4 files were somehow exported at a lower frame rate. An annoying problem to be sure, but one with an easy solution. At the end of the second day, I stayed on campus later into the evening to re-export the videos into the correct file format. That would be the last time I would step on the Caltech campus for two weeks.\nDriving home that night was a terrifying experience. The Santa Ana winds were blowing harder than I had ever experienced, and I could feel my car fighting with me to stay pointed straight. The 210 freeway that I always take home came to a dead stop, so I decided to take surface streets home. I exited onto a pitch black street in Altadena. The power had gone out from the winds and debris littered the streets. Waiting my turn at dead traffic light, a firetruck raced through the intersection heading deeper into neighborhoods. Little did I know at that time that I witnessed the first of many brave firefighters rushing to fight the blaze that would turn into one of the deadliest in Los Angeles history.\n\n\n\n\nThe next day, the group chat the cohort used to communicate was a constant stream of worried and concerned messages. The motel my new friends were staying at was on the edge of an ‘Evacuation Order Zone’, right on the other side of the freeway from the fire. I decided that day to join the workshop remotely, as my and my wife’s house was on the edge of an ‘Evacuation Warning Zone’ and the winds were still howling. The air was thick with smoke and the orange light that illuminated the sky looked like we had been transported to the middle of Mordor. A townhall was convened and it was decided that it was no longer safe for the cohort to stay at the motel and that the workshop would move to UC Santa Barbara until the fire was more under control. I elected to stay as I did not want to leave my wife alone to wrangle our 3 cats in the event they needed to evacuate.\nThe next two weeks were incredibly productive, albeit lonely. The most contact I would have with my cohort would be during the couple hours of lectures we had in the morning. My afternoons would mostly consist of quiet working time writing Python code, addressing frustrating errors that seemed unsolvable, and reading the cohort group chat to see what fun activities they were up to up North while I was stuck inside nervously refreshing the Watch Duty app for updates.\nDespite the worry and the roadblocks, progress was made and lessons were learned slowly but surely. The first victory was training my first YOLOv5 model, which was able to detect and classify both rotifers and algae. The second, which took a week on its own to figure out, was implementing a tracking algorithm into the YOLOv5 inference script so that individual algae’s distances from the rotifer could be tracked. Incorporating the Simple Online and Realtime Tracking model (SORT) into my workflow took many iterations of trial and error, but eventually it worked! By the end of the second week, I had a model that could not only detect and classify rotifers and algae, but could also assign each an ID number that would allow the model to track each individual’s position.\nBy the time the 3rd week had begun, the Eaton Fire had been contained to manageable enough levels that the air quality had significantly improved, allowing the workshop to travel back down to Caltech for its final week. While the fire was managed, the smell of smoke lingered in the air and everyone wore masks to protect themselves from the toxic ash that had been blown onto campus. Despite everything, it was nice to be around and work with people in person again as we entered the final stretch.\n\n\n\n\nMy final goal for that week was to adjust the inference script further to measure the normalized distance between a tracked alga and the rotifer, compare it to a threshold, have a bounding box be generated around the two interacting individuals if its crossed, and then enter the time stamp, frame number, & object IDs into an ‘Encounter Log’ spreadsheet for later review. It took three days of trial and error, but the feeling when that first successful video and spreadsheet were outputted was indescribable. After months and months of preparation, and three turbulent, stressful weeks of coding, I had achieved what I had set out to accomplish during the workshop. The last couple days were mostly preparing a project presentation to give to the wider group, which happened to be the first presentation I had given in 5 years.\nThe experience of attending the CV4E 2025 workshop was an absolutely wonderful opportunity that comes around once in a lifetime. While I successfully created my first Computer Vision model, the work is far from over. Looking at the error graphs from that initial run showed that more training data was needed. Not only that, but this work will hopefully be built on as I enter the next phase of my career as a PhD student at The Ohio State University studying under Dr. Tanya Berger-Wolf and Dr. Jim Hood. This foray into the integrated world of computer vision and ecology has only fueled my excitement to further develop this interdisciplinary pairing. With 20 more videos and ~55,000 more frames in hand, there is more news to come.\nAn extra big thank you to the CV4E instructors, my fellow workshop students, and Stephanie for supporting me in this venture. I quite literally could not have done any of this without their guidance, help, and moral support."
+  },
+  {
+    "objectID": "posts/hampton_davis_move.html",
+    "href": "posts/hampton_davis_move.html",
+    "title": "Hampton Lab Moves to UC Davis",
+    "section": "",
+    "text": "At the beginning of March, the Hampton Lab bid a fond farewell to Carnegie Science, and headed up north to the University of California, Davis where Stephanie assumed her new role as Director of the Tahoe Environmental Research Center (TERC) and Professor in the Department of Environmental Science and Policy. We are incredibly excited to join TERC and work with our new colleagues to further deepen our understanding of Lake Tahoe’s ecology and inspire all those who visit its gorgeous, deep cobalt blue waters.\nRead the official announcement from UC Davis to learn more about this exciting new chapter for the Hampton Lab."
+  },
+  {
+    "objectID": "posts/nsf_prop_fund_post.html",
+    "href": "posts/nsf_prop_fund_post.html",
+    "title": "National Science Foundation (NSF) Proposal Awarded",
+    "section": "",
+    "text": "Image Credit Mdy66\n\n\n\n\n\nOur NSF proposal “Advancing a comprehensive model of year-round ecosystem function in seasonally frozen lakes through networked science” has been awarded, with an official start date of November 1, 2023!"
   },
   {
     "objectID": "projects.html",
@@ -175,94 +266,17 @@
     "text": "Mountain Lake Ecology\n\n\n\n\n\nImage Credit Stephanie Hampton\n\n\n\n\n\nMountain lakes are of high cultural and ecological value. They can be ecologically very dynamic due to snowmelt-dominated hydrology. In recent decades, mountain regions have experienced declines in the proportion of precipitation falling as snow as well as higher warming rates for air temperature compared to their lowland counterparts. We have been working with the National Park Service to understand long term change in these special ecosystems, from snowpack driven ecological change in plankton and biogeochemistry to increased growth of periphyton in otherwise undisturbed ecosystems."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Hampton Lab",
-    "section": "",
-    "text": "We investigate the complex ecological dynamics underlying spatial patterns and temporal dynamics across and within aquatic ecosystems. We frequently employ data-intensive approaches to synthesize diverse existing data across the globe. As a result, our projects have often created an engaging, interdisciplinary, and international network of collaborators. We are strong proponents of open science, and strive to adhere to its principles. We value collaboration, rigorous science, constructive criticism, and collegiality."
-  },
-  {
-    "objectID": "index.html#what-we-do-in-the-hampton-lab",
-    "href": "index.html#what-we-do-in-the-hampton-lab",
-    "title": "Hampton Lab",
-    "section": "",
-    "text": "We investigate the complex ecological dynamics underlying spatial patterns and temporal dynamics across and within aquatic ecosystems. We frequently employ data-intensive approaches to synthesize diverse existing data across the globe. As a result, our projects have often created an engaging, interdisciplinary, and international network of collaborators. We are strong proponents of open science, and strive to adhere to its principles. We value collaboration, rigorous science, constructive criticism, and collegiality."
-  },
-  {
-    "objectID": "index.html#recent-news",
-    "href": "index.html#recent-news",
-    "title": "Hampton Lab",
-    "section": "Recent News",
-    "text": "Recent News"
-  },
-  {
-    "objectID": "bcdemattei.html#bio",
-    "href": "bcdemattei.html#bio",
-    "title": "Braden Charles DeMattei",
+    "objectID": "shampton.html#bio",
+    "href": "shampton.html#bio",
+    "title": "Stephanie Hampton",
     "section": "Bio",
-    "text": "Bio\nBraden is the Lab & Data Manager for the Hampton Lab at Carnegie’s BSE Division in Pasadena. He received his B.S. in Marine Biology from the University of California, Los Angeles in 2019, and his MSc. with Commendation in Marine Conservation from the University of Aberdeen in 2020. In graduate school, he specialized in fisheries science, advanced statistics & modeling, and scientific communication,. For his master’s thesis, he analyzed bycatch rates in the Scottish, pelagic mixed fisheries industry, and how they affected the Scottish government’s conservation and management goals.\nBraden has performed research in lab, office, and field settings in Northern & Southern California, Scotland, & French Polynesia. Prior to working at Carnegie, Braden was in Sacramento working on California Central Valley salmon population management and habitat restoration. He also has experience in aquatic animal husbandry, water systems maintenance, basic fabrication, administrative coordination, record keeping, and public speaking.\nHe also built this website!\nBraden’s GitHub"
+    "text": "Bio\nStephanie Hampton’s research has progressed from basic investigations in aquatic ecology using statistical analysis of large-scale databases, to broader applications of empirical evidence in science and society. Her core expertise is in aquatic science, statistical analysis, and environmental informatics. Her research includes analyzing long-term ecological data collected from lakes as globally diverse as Lake Baikal in Siberia and Lake Washington in Seattle. Together with collaborators, she has shown how lakes respond to municipal management practices such as sewage diversion. She has also helped demonstrate the effects of climate change on plankton—the basic building blocks of aquatic food webs – with a recent emphasis on the implications of winter ice loss across the globe.\nLeadership positions in research institutions have given her an opportunity to engage in a variety of large interdisciplinary collaborations at the interface of informatics and environmental science, including those that focus on the social and technical dimensions of scientific collaboration. On every level, Hampton strives to promote data sharing, open science, and wider adoption of cutting-edge informatics for more effective and transparent environmental research. She is a leader in efforts to improve computational literacy and supports access to a robust cyberinfrastructure for everyone engaged in the environmental sciences.\nHampton joined Carnegie as Deputy Director of Carnegie’s newly launched Division of Biosphere Sciences and Engineering at the end of July 2022. She arrived from the National Science Foundation, where she was the director of the Division of Environmental Biology for 4 years. Previously she was also a professor and the former director of an interdisciplinary environmental research center at Washington State University, and deputy director of the National Center for Ecological Analysis and Synthesis at UC Santa Barbara for 9 years. She is the 2023 President-elect of the Ecological Society of America.\nShe received her Ph.D. in ecology and evolution from Dartmouth College, a master’s degree in biology from University of Nevada Las Vegas, and a bachelor’s degree in biology from the University of Kansas.\nList of Publications\nFull CV (.doc)"
   },
   {
-    "objectID": "bcdemattei.html#contact",
-    "href": "bcdemattei.html#contact",
-    "title": "Braden Charles DeMattei",
+    "objectID": "shampton.html#contact",
+    "href": "shampton.html#contact",
+    "title": "Stephanie Hampton",
     "section": "Contact",
-    "text": "Contact\nEmail: bcdemattei@ucdavis.edu\nLinkedIn"
-  },
-  {
-    "objectID": "people.html",
-    "href": "people.html",
-    "title": "Who We Are",
-    "section": "",
-    "text": "Stephanie Hampton\n     Director\n         Tahoe Environmental Research Center\n\n\n\nCeara Talbot\n     Postdoctoral Fellow\n\n\n\n\n\nEckhardt Karsten\n    Lab & Data Manager\n\n\n\nDaniel Crownover\n    PhD Student"
-  },
-  {
-    "objectID": "people.html#current-members",
-    "href": "people.html#current-members",
-    "title": "Who We Are",
-    "section": "",
-    "text": "Stephanie Hampton\n     Director\n         Tahoe Environmental Research Center\n\n\n\nCeara Talbot\n     Postdoctoral Fellow\n\n\n\n\n\nEckhardt Karsten\n    Lab & Data Manager\n\n\n\nDaniel Crownover\n    PhD Student"
-  },
-  {
-    "objectID": "people.html#alumni",
-    "href": "people.html#alumni",
-    "title": "Who We Are",
-    "section": "Alumni",
-    "text": "Alumni\n\nMatthew Brousil\nKatelyn Coste\nAaron Galloway\nDerek Gray\nStephanie Labou\nRyan McClure\nMichael Meyer\nLia Meza\nSteve Powers\nStacy Rebich Hespanha\nElizabeth Rosenberger\nLindsay Scheef\nCarly Strasser\nElizabeth Wolkovich\nKara Woo\nBraden Charles Demattei"
-  },
-  {
-    "objectID": "dcrown.html#bio",
-    "href": "dcrown.html#bio",
-    "title": "Daniel Crownover",
-    "section": "Bio",
-    "text": "Bio\nDan is a community ecologist and doctoral researcher exploring species interactions in Lake Tahoe’s pelagic and benthic ecosystems, with a focus on changing ecological communities over time. Driven by a deep passion for wildlife and conservation for wild places, his research has taken him from the blistering savannas of Africa to the humid tropics of South America. Outside the lab, Dan enjoys playing acoustic guitar, mountain biking, mountaineering and backpacking deep in the wilderness."
-  },
-  {
-    "objectID": "dcrown.html#contact",
-    "href": "dcrown.html#contact",
-    "title": "Daniel Crownover",
-    "section": "Contact",
-    "text": "Contact\nEmail: dcrownover@ucdavis.edu"
-  },
-  {
-    "objectID": "template_post/post_template.html",
-    "href": "template_post/post_template.html",
-    "title": "YOUR TITLE",
-    "section": "",
-    "text": "PH\n\n\n\n\n\nPLACEHOLDER: IPSUM LOREM WHOOPSEM DOOPSEM"
-  },
-  {
-    "objectID": "ekarsten.html#bio",
-    "href": "ekarsten.html#bio",
-    "title": "Eckhardt Karsten",
-    "section": "Bio",
-    "text": "Bio\nEckhardt is the Lab & Data Manager for the Hampton lab at UC Davis’s Department of Environmental Science and Policy. He pursued a combined Bachelor’s-Master’s program as a member of the Rachael Morgan-Kiss Polar Ecophysiology lab at Miami University of Ohio, receiving his B.A in Microbiology & Environmental Sciences in 2024 and completing his Msc in Microbiology in 2025. For his Master’s thesis, he used a molecular network approach to understand what role mycoplankton, or aquatic parasitic fungi, may play within the perrenially ice-covered lakes of the McMurdo Dry Valleys in Antarctica, and what implications this may have on nutrient cycling within these enclosed systems during the polar night.\nEckhardt is a microbial ecologist at heart, and has had quite the adventure throughout their academic career. From studying how microbes define stream health in Appalachia as part of a BIOREU, working alongside world-class scientists at Pacific Northwest National Lab as a SULI intern to understand how microbes store resources under drought, to finally focusing on polar studies, he has gathered a breadth of experience to support the multidisciplinary work which is more and more critical to ecological studies. He also has experience in plankton culture maintenance, record keeping, public speaking, field operations.\nHe has also inherited the maintenance of this website from the previous lab manager, Braden Charles Demattei!\nEckhardt’s GitHub"
-  },
-  {
-    "objectID": "ekarsten.html#contact",
-    "href": "ekarsten.html#contact",
-    "title": "Eckhardt Karsten",
-    "section": "Contact",
-    "text": "Contact\nEmail: ekarsten@ucdavis.edu\nLinkedIn"
+    "text": "Contact\nEmail: shampton@carnegiescience.edu\nTwitter: @se_hampton"
   }
 ]

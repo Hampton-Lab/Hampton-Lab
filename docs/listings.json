@@ -1,6 +1,6 @@
 [
   {
-    "listing": "/news.html",
+    "listing": "/index.html",
     "items": [
       "/posts/demattei_cv4e.html",
       "/posts/hampton_sfgate.html",
@@ -13,7 +13,7 @@
     ]
   },
   {
-    "listing": "/index.html",
+    "listing": "/news.html",
     "items": [
       "/posts/demattei_cv4e.html",
       "/posts/hampton_sfgate.html",
