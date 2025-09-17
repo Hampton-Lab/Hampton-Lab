@@ -12,7 +12,7 @@ Eckhardt is the Lab & Data Manager for the Hampton lab at UC Davis's Department 
 He pursued a combined Bachelor's-Master's program as a member of the Rachael Morgan-Kiss Polar Ecophysiology lab
 at Miami University of Ohio, receiving his B.A in Microbiology & Environmental Sciences in 2024 and completing his
 Msc in Microbiology in 2025. For his Master's thesis, he used a molecular network approach to understand what role
-mycoplankton, or aquatic parasitic fungi, may play within the perrenially ice-covered lakes of the McMurdo Dry Valleys
+mycoplankton, or aquatic parasitic fungi, may play within the perennially ice-covered lakes of the McMurdo Dry Valleys
 in Antarctica, and what implications this may have on nutrient cycling within these enclosed systems during the polar 
 night.
 
