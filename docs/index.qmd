@@ -13,6 +13,7 @@ listing:
     image-placeholder: images/tempimg.jpg
     image-height: 150px
     max-items: 1
+fontcolor: rgba(228,236,247,1)
 ---
 
 ## What We Do in the Hampton Lab

@@ -16,6 +16,7 @@ blockquote::before {
 
 blockquote p {
     position: relative;
+    color:rgba(228,236,247,1);
     z-index: 2;
 }
 

@@ -9,4 +9,5 @@ listing:
     filter-ui: true
     image-placeholder: images/tempimg.jpg
     image-height: 150px
+fontcolor: rgba(228,236,247,1)
 ---

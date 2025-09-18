@@ -1,0 +1,27 @@
+---
+title: "Fresh semester, fresh faces!"
+author: "Eckhardt Karsten"
+date: "09/18/2025"
+format: html
+image: "images/HamptonSadro_groupphoto.jpg"
+---
+
+::: columns
+::: {.column width="47.5%"}
+![](images/HamptonSadro_groupphoto.jpg){width="350px"}
+:::
+
+::: {.column width="5%"}
+
+:::
+::: {.column width="47.5%"}
+
+With a new semester comes a fresh set of faces! Angela Zhu, Bailey Heng, and Daniel Crownover are
+the new graduate students starting this Fall and will be the first students driving aquatic research
+in the Hampton lab at UC Davis. It is also when I, as the new data manager, am starting my own research 
+journey with the lab. It's been exciting so far to learn about the many projects that Stephanie has had
+on the backburner, and I am incredibly excited to support the lab by aiding our students or by pursuing
+my own projects as well!
+    Here's to this being the start of an amazing journey!
+:::
+:::
