@@ -18,6 +18,7 @@ image: "images/YOUR-IMAGE.FILE-TYPE"
     The best time to be out on the water is on those bright, sunny days, dressed
   for the weather with a line cast into crystal clear waters.
     This is what I was telling myself as I stood on the translucent ice atop a lake
-  In the middle of Superior National Forest, shivering in the 0 F morning air. Though   it is an arguably dismal time to be doing work of any kind in the field, these are    the pefect
+  In the middle of Superior National Forest, shivering in the 0 F morning air. Though   it is an arguably dismal time to be doing work of any kind in the field, these are    the perfect conditions to collect data for the Winter Limnology Network. This past December I had the pleasure of joining the Ozersky Lab to sample two lakes, Pike & Crescent, as part of the final winter field season for the Winter Limnology Network project. 
+  As the data manager on the project, I was curious on getting to know the full story of the data I am working with-- and I also really wanted to flex the scientific muscles I developed working with the McMurdo LTER. Polar and winter limnology is still a niche area of study (a tight group of researchers I always seem to run into) that brings with it it's own risks and considerations
 :::
 :::
